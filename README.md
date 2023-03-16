@@ -1,2 +1,4 @@
 # NLP_Project
-NLP ENSAE 3A
+Repository for the NLP course project at ENSAE.
+
+Topic : Text Similarity Techniques for Services Categorization and Search
