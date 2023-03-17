@@ -1,0 +1,1128 @@
+,Nom et prénom,Numéro de téléphone,Service proposé,lowerplot
+0,Capucine Remy,0643621859,Gestion de projet de construction,gestion projet construction
+1,Théophile Dias-Coste,0610883745,Développement d'applications mobiles,développement dapplications_mobile
+2,Valentine Denis-Briand,0643864969,Rédaction de contenu marketing,rédaction contenu marketing
+3,Marc de Charrier,0682454911,Traduction de documents juridiques,traduction_document juridiques
+4,Daniel Maillard-Ramos,0636373700,Analyse de données pour les entreprises,analyse données entreprises
+5,Manon Gomes,0654898400,Création de sites web sur mesure,création site web mesure
+6,Élisabeth-Corinne Guyot,0638303050,Planification financière personnelle,planification financière personnelle
+7,Thibault-Édouard Muller,0668634885,Formation en ressources humaines,formation ressources_humaines
+8,Léon Briand,0635870513,coach professionnel pour les cadres supérieurs,coach professionnel cadre supérieurs
+9,Louis de Ferrand,0636346897, nettoyage commercial,nettoyage commercial
+10,Timothée Fontaine,0697673624,Organisation d'événements spéciaux,organisation dévénements spéciaux
+11,Franck Le Grondin,0683980362,Conseils en image et relooking,conseils image_relooking
+12,Édith Legrand,0662955345,Maintenance informatique pour les entreprises,maintenance informatique entreprises
+13,Madeleine de la Richard,0676227177,Gestion de la chaîne d'approvisionnement pour les petites entreprises,gestion chaîne_dapprovisionnement petite entreprises
+14,Simone Antoine,0657861851, comptabilité et de tenue de livres pour les entreprises,comptabilité tenue livres entreprises
+15,Adrien Fleury,0666772073,Planification de voyages personnalisés,planification voyage personnalisés
+16,Alexandre Boulay,0678322983,Design d'intérieur pour les maisons et les entreprises,design dintérieur maisons entreprises
+17,Maurice-Matthieu Joubert,0610645641, coach de vie pour les particuliers,coach vie particuliers
+18,Alex Lemonnier du Parent,0680442574,Soutien aux personnes âgées et aux personnes handicapées,soutien personnes âgées personnes handicapées
+19,Léon Thierry,0636077647,Cours de cuisine et de pâtisserie pour les particuliers.,cours cuisine pâtisserie particuliers
+20,Claire Le Vincent,0643114105,Création de contenu de médias sociaux,création contenu médias sociaux
+21,Olivier du Guyot,0611869934,Réparation de téléphones portables,réparation téléphones portable
+22,Raymond Bouvier,0636737261,Conception de jardins et d'espaces extérieurs,conception jardins despaces extérieurs
+23,Julien Dias,0621347428, comptabilité pour les petites entreprises,comptabilité petite entreprises
+24,Jérôme Schneider,0631012111,coach de remise en forme et de santé,coach remise_forme santé
+25,Stéphanie Brun de Foucher,0638573054,Développement de jeux vidéo,développement jeux vidéo
+26,Guy Goncalves,0676940972, nettoyage résidentiel,nettoyage résidentiel
+27,Thomas Morin-De Sousa,0605116324,Planification de mariage et coordination d'événements,planification mariage coordination dévénements
+28,Virginie Andre,0633980508, design et décoration,design décoration
+29,Nicolas Langlois,0619984242,Gestion de la chaîne d'approvisionnement pour les grandes entreprises,gestion chaîne_dapprovisionnement grandes entreprises
+30,Frédéric Coulon-Guillaume,0644119364,Création de sites web de commerce électronique,création site web commerce électronique
+31,Victor Jacquet,0662441615, développement de logiciels personnalisés,développement logiciels personnalisés
+32,Noël Collin,0600561275,Conseils en investissement financier,conseils investissement financier
+33,Noël Brun,0684751287, rédaction et édition de contenu technique,rédaction édition contenu technique
+34,Léon Le Colas,0614638807,Formation en leadership et développement de l'équipe,formation leadership développement léquipe
+35,Henri Martins,0642794807, création de logos et d'identité de marque,création logo didentité marque
+36,Jeanne Colas-Paris,0644573001,Conception de meubles sur mesure,conception meubles mesure
+37,Audrey-Dominique Lamy,0608864864, traduction pour les entreprises multilingues,traduction entreprises multilingues
+38,Gabrielle-Patricia Chartier,0660330114,Planification de voyages de luxe,planification voyage luxe
+39,Isaac Petit,0615416717, photographie professionnelle pour les mariages et les événements,photographie professionnelle mariages événements
+40,Louise Munoz de la Carlier,0667118343,Développement de sites Web personnalisés,développement site web personnalisés
+41,Emmanuel Roger,0675749882, comptabilité pour les petites entreprises,comptabilité petite entreprises
+42,Alfred Guillon de la Pelletier,0607155007,Organisation d'événements corporatifs,organisation dévénements corporatifs
+43,Océane Humbert,0607484292,Conception de logo et de marque,conception logo marque
+44,Henriette-Martine Begue,0674137305,Nettoyage professionnel de tapis et de moquettes,nettoyage professionnel tapis moquette
+45,Victoire Merle,0666517682, transcription audio et vidéo,transcription audio vidéo
+46,Amélie Roger-Boucher,0607553026,Marketing par e-mail pour les entreprises,marketing email entreprises
+47,Arthur-Alphonse Picard,0648329813,Formation en leadership et en gestion d'équipe,formation leadership gestion déquipe
+48,Robert De Sousa,0621725427,Soutien aux étudiants pour les devoirs et les travaux universitaires,soutien étudiants devoir travaux universitaires
+49,Grégoire Bousquet,0682842539,Évaluation de la performance des employés,évaluation performance employés
+50,Louis Fernandez,0627702323,Maintenance de piscines résidentielles et commerciales,maintenance piscines résidentielles commerciales
+51,Océane Fischer,0695542937, coach pour les personnes en transition de carrière,coach personnes transition carrière
+52,Matthieu Barre-Foucher,0632281780,Réparation et entretien de véhicules automobiles,réparation entretien véhicules automobile
+53,Emmanuel Philippe,0614382140,Planification de voyage personnalisée,planification voyage personnalisée
+54,Andrée Chretien,0667543145, référencement pour les sites Web,référencement site web
+55,Maurice Barre Le Klein,0680035806,Préparation de déclarations fiscales pour les particuliers,préparation déclarations fiscales particuliers
+56,Anaïs Boutin,0607558088,Traduction de documents pour les entreprises et les particuliers,traduction_document entreprises particuliers
+57,Margaux Germain,0696720951, garde d'animaux à domicile,garde danimaux domicile
+58,Juliette Salmon,0619074350,Réparation de systèmes de chauffage et de climatisation,réparation systèmes_chauffage climatisation
+59,Étienne Brun,0682890915,Conseils en image et relooking pour les particuliers.,conseils image_relooking particuliers
+60,daisy Evrard,0630180023,coach en créativité pour les professionnels,coach créativité professionnels
+61,Aimé Meunier,0659662582,Conseils en nutrition et planification de repas personnalisés,conseils nutrition planification repas personnalisés
+62,Laetitia-Alex De Oliveira,0616654381, curation de contenu pour les influenceurs et les marques,curation contenu influenceurs marque
+63,Margaret Baudry,0633092047,Organisation de chasses au trésor pour les entreprises et les événements privés,organisation chasse_trésor entreprises événements privés
+64,Philippe du Lucas,0643748419, location de vêtements haut de gamme pour des occasions spéciales,location vêtements haut gamme occasion spéciales
+65,Zacharie-Alfred Colas,0659351495,Assistance pour la gestion des tâches ménagères,assistance gestion tâches ménagères
+66,Émilie Diallo de la Boulay,0606752333, livraison de repas à domicile,livraison repas domicile
+67,Claude Mercier,0653761106,Garde d'animaux de compagnie à domicile,garde danimaux compagnie domicile
+68,Alfred Guibert de Fontaine,0605811344, organisation de déménagement,organisation déménagement
+69,Emmanuel Didier de Tessier,0635069181,Accompagnement aux courses et aux rendez-vous médicaux,accompagnement course rendezvous_médicaux
+70,Honoré Lemonnier,0627142531," réparation à domicile (plomberie, électricité, peinture )",réparation domicile plomberie électricité peinture
+71,Claude Martin,0615113085, entretien du jardin et des espaces extérieurs,entretien jardin espaces extérieurs
+72,Claude Courtois,0615591903,gestion de la paperasse administrative,gestion paperasse administrative
+73,Lucas Ferrand Le Boyer,0624842167, blanchisserie et repassage à domicile,blanchisserie repassage domicile
+74,Gérard Roger,0660040264, Préparation de repas sains et équilibrés,préparation repas sains_équilibrés
+75,Yves Regnier,0608454093,"Assistance pour l'organisation d'événements spéciaux (mariages, anniversaires )",assistance lorganisation dévénements spéciaux mariages anniversaires
+76,Isabelle du Gilbert,0685761295,"Accompagnement pour des activités de loisirs (cinéma, musée )",accompagnement activités loisirs cinéma musée
+77,Alice Renaud,0697449818, soutien scolaire et devoirs,soutien scolaire devoir
+78,Roland Riou,0688889971,  la gestion des finances personnelles,gestion finance personnelles
+79,Théodore Bourdon,0652658505," conciergerie privée (réservation de billets, de tables )",conciergerie privée réservation billet table
+80,Alfred Ledoux de la Blanc,0605353892, covoiturage pour les personnes à mobilité réduite,covoiturage personnes mobilité_réduite
+81,Maurice Barbier,0680366394, coiffure à domicile,coiffure domicile
+82,Xavier Gomes,0686155952,"Gestion de la santé (prise de médicaments, suivi de traitement )",gestion santé prise_médicaments suivi traitement
+83,Honoré-Joseph Allain,0665533577,planification de voyages,planification voyage
+84,Maurice Pierre,0604755594, nettoyage écologique des extérieurs,nettoyage écologique extérieurs
+85,Madeleine Guillot,0681024472, transport en ambulance non-urgent,transport ambulance nonurgent
+86,Jeannine Lefebvre-Hardy,0611494216,soutien pour organisation de funérailles,soutien organisation funérailles
+87,Louis Antoine,0611286942, garde de nuit pour les enfants ou les personnes âgées,garde nuit enfants personnes âgées
+88,Adélaïde Fouquet-Baudry,0643016308, accompagnement : gestion du stress et de l'anxiété ,accompagnement gestion stress lanxiété
+89,Timothée Le Goff,0680620578,Assistance à la parentalité pour les nouveaux parents,assistance parentalité nouveaux_parent
+90,Josette Diaz,0638182623,Accompagnement à l'installation dans une nouvelle ville ou un nouveau pays,accompagnement linstallation nouvelle ville nouveau pay
+91,Noémi Joseph,0660709819,Organisation de voyages adaptés pour les personnes à mobilité réduite,organisation voyage adaptés personnes mobilité_réduite
+92,Grégoire Barbier,0694928707, garde pour animaux de compagnie,garde animaux_compagnie
+93,Joseph-Gilbert Leconte,0615378479,Assistance pour les tâches administratives et fiscales,assistance tâches_administratives fiscales
+94,Eugène Rodrigues,0694319437," Apprentissage d'une nouvelle langue : anglais, portugais, espagnol, italien",apprentissage dune nouvelle langue anglais portugais espagnol italien
+95,Patrick de la Maillard,0678674287,coach en développement personnel et professionnel,coach développement personnel professionnel
+96,Alexandria Faivre-Mahe,0643209013,Accompagnement pour la recherche d'un emploi ou d'un stage,accompagnement recherche dun emploi dun stage
+97,Nathalie Benard du Devaux,0676695045, conciergerie pour les personnes âgées,conciergerie personnes âgées
+98,Élisabeth Paul,0674420943, la planification et l'organisation d'événements,planification lorganisation dévénements
+99,Benoît Bazin-Blanchard,0654094047, tutorat pour les enfants ayant des difficultés scolaires,tutorat enfants difficultés scolaires
+100,Corinne de la Bouvier,0647599741, Recherche de logement et d'aménagement,recherche logement_daménagement
+101,Roger Bourgeois,0610894776, la gestion de la vie quotidienne pour les personnes atteintes de troubles mentaux,gestion vie quotidienne personnes atteintes_trouble mentaux
+102,Bertrand Vallee,0669223752,Organisation de programmes de bien-être pour les entreprises,organisation programme bienêtre entreprises
+103,Hugues Cohen,0695529132, traduction et d'interprétation pour les personnes parlant une langue étrangère,traduction dinterprétation personnes parlant_langue étrangère
+104,Denis Perrin,0694298679,Gestion de la transition vers la vie d'étudiant pour les lycéens,gestion transition_vers vie détudiant_lycéens
+105,Martine Jacquot,0617858170, coach pour les artistes et les créatifs,coach artiste_créatifs
+106,Étienne Ramos-Chartier,0652256539,organisation de voyages culinaires pour les gourmets,organisation voyage culinaires_gourmet
+107,Éric Techer,0626875715, design et décoration d'intérieur,design décoration dintérieur
+108,Jean Noel,0651433012, la gestion de l'identité numérique pour les personnes soucieuses de leur réputation en ligne,gestion lidentité_numérique personnes soucieuses_réputation ligne
+109,Valentine Le Roux,0649691161, gestion de projet pour les entrepreneurs et les indépendants,gestion projet entrepreneur indépendants
+110,Josette-Noémi Cohen,0668697140,Accompagnement pour les personnes qui cherchent à adopter un mode de vie plus sain,accompagnement personnes cherchent adopter_mode vie plus sain
+111,Michèle Blin,0616191855, conciergerie pour les professionnels très occupés,conciergerie professionnels très_occupés
+112,Suzanne Richard,0667019950,Gestion des réseaux sociaux pour les marques et les influenceurs,gestion réseaux_sociaux marque influenceurs
+113,Grégoire Poulain,0629817592, conseil pour les investissements financiers,conseil investissements_financier
+114,Sophie Menard,0688553972,Recherche et achat de produits écoresponsables,recherche achat produits écoresponsables
+115,Étienne Lemoine de la Menard,0632705714, traduction de documents pour les entreprises internationales,traduction document entreprises internationale
+116,Catherine de Brun,0605137570, la préparation de dossiers de candidature pour les études supérieures,préparation_dossier candidature_études supérieures
+117,Aurélie Marie,0632564779,Organisation de séances de photoshoot pour les blogueurs et les influenceurs,organisation séances_photoshoot blogueurs_influenceurs
+118,Arnaude-Margaret Da Silva,0651799151,coach en relations amoureuses et en communication,coach relation_amoureuses communication
+119,Hortense Marques,0604506581,Assistance à la planification de projets de construction et de rénovation,assistance planification projets_construction rénovation
+120,Gabriel Blanchet-Garcia,0638424106,Organisation de voyages d'affaires,organisation voyage daffaires
+121,Michel Lemonnier,0622097560, Recherche de stages à l'étranger,recherche stage létranger
+122,Daniel Legros,0697604471,Gestion de la logistique pour les événements d'entreprise,gestion logistique événements dentreprise
+123,Étienne-Emmanuel Hubert,0608597950,Recherche de formations professionnelles pour les adultes,recherche formation professionnelles_adultes
+124,Grégoire Barthelemy de Morin,0692463338,Soutien scolaire en ligne pour les étudiants à distance,soutien scolaire ligne étudiants distance
+125,daisy Bonnet,0615004259,Recherche d'activités de loisirs pour les enfants et les adolescents,recherche dactivités_loisirs enfants adolescent
+126,Anaïs Blanchet,0614422218,Conseil en marketing digital pour les startups,conseil marketing_digital startup
+127,Franck Roger,0637813676, Recherche de programmes de bénévolat à l'étranger,recherche programme bénévolat_létranger
+128,Yves-Matthieu Potier,0634591663,Gestion de la comptabilité pour les petites entreprises,gestion comptabilité petite entreprises
+129,René Evrard,0686759384,Recherche de programmes de formation en ligne,recherche programme formation ligne
+130,Hélène Guilbert,0662334793,coach en entrepreneuriat pour les nouveaux chefs d'entreprise,coach entrepreneuriat_nouveaux chef_dentreprise
+131,Marianne Robert,0605884162,Assistance à la recherche de stages pour les étudiants de l'enseignement supérieur,assistance recherche stage étudiants lenseignement_supérieur
+132,Sabine Fernandez,0640900496,coach de vie pour   à atteindre ses objectifs personnels et professionnels,coach vie atteindre_objectifs personnel professionnels
+133,Étienne Courtois,0673771707,Accompagnement pour les personnes atteintes de troubles de l'autisme,accompagnement personnes atteintes_trouble lautisme
+134,Michel Levy,0642071419,Covoiturage pour les personnes âgées qui doivent aller chez le médecin,covoiturage personnes âgées doivent aller chez médecin
+135,Nicolas Dupuy,0681304170,Soins palliatifs à domicile,soins palliatifs domicile
+136,Nath Caron,0609097897,Consultant en organisation pour   les personnes à organiser leur maison ou leur espace de travail,consultant organisation personnes organiser maison espace travail
+137,Gérard Petit,0624444313,Conseiller financier pour   les personnes à gérer leur argent,conseiller financier personnes gérer argent
+138,Martin Moulin-Bodin,0667414924,Mentorat pour les jeunes à risque,mentorat_jeunes risque
+139,Danielle Guibert,0604712927,Coach en nutrition pour que personnes adoptent une alimentation plus saine,coach nutrition personnes adoptent alimentation plus saine
+140,Christophe Leclercq,0645482220,Nettoyage de vitres pour les personnes ayant des difficultés de mobilité,nettoyage_vitres personnes difficultés mobilité
+141,Patrick Reynaud,0678109693,Massage à domicile,massage domicile
+142,Sébastien Breton,0696879951,Accompagnement pour les personnes en fin de vie,accompagnement personnes fin vie
+143,Maurice Neveu,0617754401,Préparation de repas personnalisés,préparation repas personnalisés
+144,Lucas Leger,0661579917,Conciergerie pour les personnes occupées,conciergerie personnes occupées
+145,Inès Alexandre,0609667018,Un coach sportif pour se remettre en forme.,coach sportif remettre forme
+146,Olivie Charpentier,0665178191,Livraison de médicaments à domicile,livraison médicaments domicile
+147,Robert Dupont-Benoit,0666116903,Promenade de chiens pour les personnes ne pouvant plus le faire elles-mêmes,promenade_chiens personnes pouvant plus faire ellesmêmes
+148,Patrick Gilles de Blot,0605946368,Lecture pour les personnes malvoyantes,lecture personnes malvoyantes
+149,Franck Evrard,0627257198,Soutien scolaire à domicile pour les enfants en difficulté,soutien scolaire domicile enfants difficulté
+150,Antoinette Guyon-Fischer,0680079571,Accompagnement aux démarches administratives,accompagnement démarches administratives
+151,Lucas Le Masson,0640913659,Organisation de voyages pour les personnes âgées,organisation voyage personnes âgées
+152,Arthur Jacques de Mercier,0673958602,Jardinage pour les personnes ayant des difficultés physiques,jardinage personnes difficultés physique
+153,Mathilde-Margaux Arnaud,0658412986,Préparation à la retraite,préparation retraite
+154,Grégoire Marechal,0682292922,Recherche de logement pour les personnes ayant des difficultés,recherche logement personnes difficultés
+155,Gabriel Maillet-Devaux,0664267937,Application mobile pour trouver des lieux accessibles,application mobile trouver lieux accessibles
+156,Timothée Diallo,0676566509,Taxi,taxi
+157,Thérèse Laroche,0660399949,Location de fauteuils roulants électriques pour une journée,location fauteuil roulants électriques journée
+158,Jérôme Collet-Carre,0622807618,Livraison à domicile pour les personnes handicapées,livraison domicile personnes handicapées
+159,Étienne Dos Santos,0680553918,Location de vélos adaptés,location vélos adaptés
+160,Audrey Lefevre,0601256894,Voitures avec des équipements spéciaux,voitures équipements spéciaux
+161,Susan Chevallier,0666426027,Consultations en ligne pour les personnes atteintes de troubles sensoriels,consultations ligne personnes atteintes_trouble sensoriels
+162,Frédéric Begue du Sanchez,0628693065,Accompagnement pour les rendez-vous médicaux,accompagnement rendezvous_médicaux
+163,Christelle Begue,0668706510,Traduction en langue des signes pour les événements publics,traduction langue signes événements public
+164,Lucie Verdier,0625462478,Système de signalisation lumineuse pour les personnes atteintes de déficience visuelle,système signalisation lumineuse personnes atteintes déficience visuelle
+165,Louis Martin,0607742911,Livraison de repas à domicile adapté aux régimes alimentaires spéciaux,livraison repas domicile adapté régimes_alimentaires spéciaux
+166,Marianne Marchand,0633648863,Programme de remise en forme pour les personnes handicapées,programme remise_forme personnes handicapées
+167,Tristan Duhamel,0682215672,Conseil en matière de technologie d'assistance,conseil matière technologie dassistance
+168,Christelle Weiss,0664625274,Nettoyage à domicile pour les personnes handicapées,nettoyage domicile personnes handicapées
+169,Alex Sanchez Le Laurent,0681544437,Mentorat pour les personnes handicapées,mentorat personnes handicapées
+170,Thibault Lecomte-Labbe,0645827658,Traduction pour les personnes atteintes de troubles de la communication,traduction personnes atteintes_trouble communication
+171,Bernadette Leleu,0655422994,Soutien pour l'éducation des enfants handicapés,soutien léducation enfants handicapés
+172,Pénélope Millet,0694965995,Formation professionnelle pour les personnes handicapées,formation professionnelle personnes handicapées
+173,Dorothée-Suzanne Marques,0689008713,Planification de voyage pour les personnes handicapées,planification voyage personnes handicapées
+174,Anaïs-daisy Diaz,0676296644,"Tâches quotidiennes, telles que faire les courses et la lessive",tâches quotidiennes_telles faire course lessive
+175,Antoine Millet,0687680072,Location de voitures adaptées pour les voyages,location voitures adaptées voyage
+176,Vincent Breton,0691097264,Préparation de repas pour les personnes handicapées,préparation repas personnes handicapées
+177,Sabine Normand de Guillaume,0694253268,Gestion de la médication pour les personnes atteintes de troubles mentaux,gestion médication personnes atteintes_trouble mentaux
+178,Benoît Reynaud Le Mendes,0608864929,Remplacement de prothèse en urgence,remplacement prothèse urgence
+179,Éric Garcia,0612496320,Déplacement pour les personnes en fauteuil roulant,déplacement personnes fauteuil roulant
+180,Alexandria Maillet,0668433592,Programme de loisirs pour les personnes handicapées,programme loisirs personnes handicapées
+181,René Fischer,0636214530,Coordination de soins de santé pour les personnes atteintes de maladies chroniques,coordination soins santé personnes atteintes malady_chroniques
+182,Gilles Meyer,0642820951,Conseils juridiques pour les personnes handicapées,conseils juridiques personnes handicapées
+183,Bernadette Martinez-Vallet,0602974633,Consultations en nutrition pour les personnes atteintes de troubles alimentaires,consultations nutrition personnes atteintes_trouble alimentaires
+184,Éléonore Nicolas,0614617568,Conseil pour les personnes atteintes de troubles de l'humeur,conseil personnes atteintes_trouble lhumeur
+185,Martine Fournier,0642665308,Soutien pour les aidants naturels,soutien aidants naturels
+186,Marine Duval,0638800045,Formation pour les employeurs sur la manière de travailler avec des personnes handicapées,formation employeurs manière travailler personnes handicapées
+187,Jacques Didier,0617007252,Coordination pour les projets de construction d'immeubles accessibles,coordination projets_construction dimmeubles accessibles
+188,Margaret-Renée Hardy,0670236458,Conseils en matière d'accessibilité pour les organisations,conseils matière daccessibilité organisation
+189,Patricia Jacquot du Maillard,0618731452,Conseils en matière de financement pour les personnes handicapées,conseils matière financement personnes handicapées
+190,André Collet,0694754396,Soutien émotionnel pour les personnes atteintes de maladies chroniques,soutien émotionnel personnes atteintes malady_chroniques
+191,Julien Buisson-Masson,0699995299,Navigation pour les personnes atteintes de troubles cognitifs,navigation personnes atteintes_trouble cognitifs
+192,Jacques Charpentier,0625703373,Mentorat pour les jeunes handicapés,mentorat_jeunes handicapés
+193,Caroline Carre,0636875288,Conseils en matière de sécurité pour les personnes handicapées,conseils matière sécurité personnes handicapées
+194,Patrick Poirier,0624962144,Consultation pour les personnes atteintes de déficience auditive,consultation personnes atteintes déficience auditive
+195,Monique Rossi,0660995692,Transport adapté pour les événements publics,transport adapté événements public
+196,Gilles Regnier Le Chauveau,0651385469,Conseils en matière de développement de carrière pour les personnes handicapées,conseils matière développement carrière personnes handicapées
+197,Adèle Pascal,0694560886,Coordination pour les programmes de formation pour les travailleurs handicapés,coordination programme formation travailleurs handicapés
+198,daisy-Noémi Cousin,0697552907,Soutien pour les personnes atteintes de troubles du sommeil,soutien personnes atteintes_trouble sommeil
+199,Valérie Denis,0605161393,Adaptation de domicile,adaptation domicile
+200,Olivier Bertrand,0697014819,coach en relations amoureuses et en communication,coach relation_amoureuses communication
+201,Marcel-Jérôme Ferrand,0600087002,Planification de projets de construction et de rénovation,planification projets_construction rénovation
+202,Adrienne de Hubert,0665524957,Planification de voyages d'affaires,planification voyage daffaires
+203,Jacques Lemonnier,0621471725,Recherche de stages à l'étranger,recherche stage létranger
+204,Grégoire-Aimé Baudry,0663163644,Gestion de la logistique pour les événements d'entreprise,gestion logistique événements dentreprise
+205,Mathilde de Lejeune,0601546632,Recherche de formations professionnelles pour les adultes,recherche formation professionnelles_adultes
+206,Thierry Marion,0673901006,Soutien scolaire en ligne pour les étudiants à distance,soutien scolaire ligne étudiants distance
+207,Geneviève Peltier,0642040867,Recherche d'activités de loisirs pour les enfants et les adolescents,recherche dactivités_loisirs enfants adolescent
+208,Capucine Potier,0642729771,Conseil en marketing digital pour les startups,conseil marketing_digital startup
+209,Marie Fernandes,0651194539,Recherche de programmes de bénévolat à l'étranger,recherche programme bénévolat_létranger
+210,Alexandre de Albert,0628280648,Gestion de la comptabilité pour les petites entreprises,gestion comptabilité petite entreprises
+211,Éric Giraud,0698038157,Recherche de programmes de formation en ligne,recherche programme formation ligne
+212,Michelle Gaillard,0644997946,coach en entrepreneuriat pour les nouveaux chefs d'entreprise,coach entrepreneuriat_nouveaux chef_dentreprise
+213,Susan Dijoux-Imbert,0605617806,Recherche de stages pour les étudiants de l'enseignement supérieur,recherche stage étudiants lenseignement_supérieur
+214,Roger Aubert-Ferreira,0642072880,coach de vie pour atteindre des objectifs personnels et professionnels,coach vie atteindre_objectifs personnel professionnels
+215,Arthur Martel Le Marin,0697099324,Accompagnement pour les personnes atteintes de troubles de l'autisme,accompagnement personnes atteintes_trouble lautisme
+216,Alphonse Valette-Baudry,0690158838,Tutorat pour les enfants ayant des difficultés scolaires,tutorat enfants difficultés scolaires
+217,Gérard Bonnet,0687791752,Recherche de logement et d'aménagement,recherche logement_daménagement
+218,Gérard Lefebvre,0629580435,Gestion de la vie quotidienne,gestion vie quotidienne
+219,Nathalie Renault,0632404351,Organisation de programmes de bien-être pour les entreprises,organisation programme bienêtre entreprises
+220,Gabriel Hernandez,0632281037,Traduction et d'interprétation pour les personnes parlant une langue étrangère,traduction dinterprétation personnes parlant_langue étrangère
+221,Charlotte Thibault,0643450068,Gestion de la transition vers la vie d'étudiant pour les lycéens,gestion transition_vers vie détudiant_lycéens
+222,Léon Allain,0650759557,coach pour les artistes et les créatifs,coach artiste_créatifs
+223,Jeannine Huet,0697177417, l'organisation de voyages culinaires pour les gourmets,lorganisation voyage culinaires_gourmet
+224,Laurence Maillot,0686047801,Design et de décoration d'intérieur,design décoration dintérieur
+225,Eugène Charpentier,0669947140,Gestion de l'identité numérique pour les personnes soucieuses de leur réputation en ligne,gestion lidentité_numérique personnes soucieuses_réputation ligne
+226,Diane-Nicole Klein,0629107776,Gestion de projet pour les entrepreneurs et les indépendants,gestion projet entrepreneur indépendants
+227,Lorraine Garcia,0677873828,Accompagnement pour adopter un mode de vie plus sain,accompagnement adopter_mode vie plus sain
+228,Gérard du Jourdan,0626907008,Conciergerie pour les professionnels très occupés,conciergerie professionnels très_occupés
+229,Henri Parent Le Marques,0640535919,Gestion des réseaux sociaux pour les marques et les influenceurs,gestion réseaux_sociaux marque influenceurs
+230,Roland-Rémy Poirier,0636287715,Conseil pour les investissements financiers,conseil investissements_financier
+231,Adélaïde du Lamy,0684401753, la recherche et à l'achat de produits écoresponsables,recherche lachat produits écoresponsables
+232,Manon-Juliette Perez,0626489850,Traduction de documents pour les entreprises internationales,traduction_document entreprises internationale
+233,Chantal-Laetitia Pascal,0615024414, la préparation de dossiers de candidature pour les études supérieures,préparation_dossier candidature_études supérieures
+234,Thérèse Le Delahaye,0641842372,Organisation de séances de photoshoot pour les blogueurs et les influenceurs,organisation séances_photoshoot blogueurs_influenceurs
+235,Gérard Le Marin,0612304811,Distributeur de flyers,distributeur_flyer
+236,Camille-Julie Laporte,0674482207,Livreur de colis,livreur colis
+237,Laure Jacquot,0623456398,Animateur de fêtes d'anniversaire pour enfants,animateur fêtes_danniversaire enfants
+238,Aimé Rousseau-Weber,0618534729,Caissier,caissier
+239,Zacharie Le Bigot,0640495073,Serveuse,serveuse
+240,Gilles Lefebvre Le Mace,0608670838,Baby-sitter,babysitter
+241,Bernadette Jacques,0607475054,Agent d'entretien,agent dentretien
+242,Noël Gaudin,0627105589,Réceptionniste,réceptionniste
+243,Denis De Sousa du Texier,0690338123,Assistant administratif,assistant administratif
+244,Stéphane Andre de la Camus,0643553985,Manutentionnaire,manutentionnaire
+245,Lucy Leblanc,0673017742,Préparateur  de commandes,préparateur_commandes
+246,Timothée Le Hebert,0634361445,Opérateur de saisie,opérateur_saisie
+247,Michel Germain,0670218819,Téléconseiller,téléconseiller
+248,Nathalie Bailly-Pons,0669424067, domicile pour personnes âgées ou handicapées,domicile personnes âgées handicapées
+249,Virginie Ferreira,0687540363,Agent de sécurité,agent sécurité
+250,Nicolas du Peltier,0649478312,Conductrice de bus scolaire,conductrice bus scolaire
+251,Josette de la Duval,0659114473,Facteur,facteur
+252,Georges Labbe,0650487756,Agent de nettoyage industriel,agent nettoyage industriel
+253,Aimé Collet Le Bailly,0675909224,Agent d'accueil dans un musée ou un monument historique,agent daccueil musée monument historique
+254,Gérard Leger,0611008861,Vendeur en magasin,vendeur magasin
+255,Michelle Carpentier de Pons,0633636529,Agent de billetterie,agent billetterie
+256,Alexandre Bonnin,0653841039,Employé de restauration rapide,employé restauration rapide
+257,Sabine Le Gall,0689342343,Télévendeuse,télévendeuse
+258,Aimée de la Duhamel,0655742397,Opérateur de production,opérateur production
+259,Cécile Moreno,0601071355,Agent de maintenance,agent maintenance
+260,Catherine Lopes,0678244862,animatrice en centre de loisirs,animatrice centre loisirs
+261,Capucine de Carlier,0697347443,Caissier dans une station-service,caissier stationservice
+262,Alice Becker,0666522294,Gardien  de parking,gardien parking
+263,Thibaut-Bernard Barbe,0619329222,Mannequin photo,mannequin photo
+264,Joséphine Potier,0615545895,Hôtessed'accueil en entreprise,hôtessedaccueil entreprise
+265,Eugène Ruiz,0630864084,Agent de collecte des déchetsopératrice de machine,agent collecte déchetsopératrice machine
+266,Marc Robert-Perrot,0659004739,Agent de tri et de conditionnement,agent tri conditionnement
+267,Cécile Guillou-Lambert,0659961959,Employé de ménage,employé ménage
+268,Célina Remy,0613932530,Agent de sécurité incendie,agent sécurité incendie
+269,Amélie Gaudin,0601042734,Employé de libre-service,employé libreservice
+270,Alexandria Lesage,0668745582,Animatrice de vente,animatrice vente
+271,Maryse Ruiz,0662472056,Standardiste,standardiste
+272,Alfred Barbe,0639404409,Coursier à vélo ou en scooter,coursier vélo scooter
+273,Robert-Marc Brunet,0653733536,Employé polyvalent en restauration,employé polyvalent restauration
+274,Claude Costa,0693462985,Entretien ménager,entretien_ménager
+275,Laetitia Legendre,0669078664,Dresseur de cheval,dresseur cheval
+276,Stéphane Besnard,0602452990,Pour vous cuisiner de bons petits plats,cuisiner bons petits plat
+277,Bernadette Fontaine de Thibault,0624316221,Coiffeur à domicile,coiffeur domicile
+278,Claire Munoz,0679337928,Chef de rang,chef rang
+279,Dominique de Jean,0694816931,Employé de pressing,employé_pressing
+280,Marc Raynaud,0653502476,Guide touristique,guide touristique
+281,Geneviève Lecomte,0684080900,Agent d'entretien des espaces verts,agent dentretien espaces verts
+282,Pierre Etienne,0663254580,Agent de tri des déchets recyclables,agent tri déchets recyclables
+283,Georges Barbe,0605624249,Magasinier,magasinier
+284,Joséphine Paris,0685739009,Agent de nettoyage de véhicules,agent nettoyage véhicules
+285,William Valentin-Garnier,0620050564,Serveur à domicile,serveur domicile
+286,Arthur Descamps,0684584165,animatrice de colonie de vacances,animatrice colonie vacances
+287,Isaac Delmas,0630347402,opératrice de conditionnement,opératrice conditionnement
+288,Louise Gomes,0615000140,Agent de sécurité événementiel,agent sécurité événementiel
+289,Joseph Dupont,0693037358,hôte d'accueil en événementiel,hôte daccueil événementiel
+290,Dominique Chartier,0695913218,conseillère en vente,conseillère vente
+291,René Gros,0600186690,Mannequin cabine,mannequin cabine
+292,Françoise Ramos du Fernandez,0613112286,Employé de rayon,employé rayon
+293,Guy Dubois-Gomes,0656194766,Agent de contrôle qualité,agent contrôle qualité
+294,Adrien Delahaye,0605260896,animatrice en maison de retraite,animatrice maison retraite
+295,Léon Chauveau,0610292051,Agent de restauration collective,agent restauration collective
+296,Michelle Leroux,0696151981,Employé de drive,employé drive
+297,Aimée de la Costa,0664341608,cuisinière à domicile,cuisinière domicile
+298,Luc Le Humbert,0604553420,Agent de tri postal,agent tri_postal
+299,Antoine Joubert,0660260994,Agent de quai,agent quai
+300,Andrée-Agathe Martel,0695422879,Démonstrateur de produits divers,démonstrateur produits diver
+301,Vincent Guillet,0632637720,Agent de courrier,agent courrier
+302,Alain Le Mercier,0608241216,Agent de maintenance,agent maintenance
+303,Caroline Coste,0661664215,Guide pour tours de food-tasting dans une ville,guide tour foodtasting ville
+304,Valérie du David,0678080719,Propriétaire de stand de limonade artisanale,propriétaire_stand limonade artisanale
+305,Alphonse Martinez du Coulon,0670052418,Assistant pour événements musicaux,assistant événements musicaux
+306,Madeleine Perrin,0609250092,Promeneur de chiens professionnels,promeneur chiens professionnels
+307,Susanne Le Guillot,0628381329,Jardinier à domicile,jardinier domicile
+308,Denis Fontaine,0638854756,Assistant personnel pour les tâches administratives,assistant personnel tâches_administratives
+309,Mathilde Petitjean,0620489043,Tuteur en ligne pour les étudiants internationaux,tuteur ligne étudiants internationaux
+310,Denis-Isaac Descamps,0633443172,Créateur de contenu pour les réseaux sociaux,créateur contenu réseaux_sociaux
+311,André Lucas,0670294079,Designer de jardins verticaux pour les maisons et les bureaux,designer jardins verticaux maisons bureau
+312,Juliette Jacquot,0697236592,Nettoyeur de piscines à domicile,nettoyeur piscines domicile
+313,Olivier du Mace,0640512301,Fleuriste pour événements spéciaux,fleuriste événements spéciaux
+314,Sébastien Perrot,0609509873,Assistant personnel de shopping,assistant personnel shopping
+315,Noël Delahaye,0681905770,Vendeuse de bijoux artisanaux sur les marchés,vendeuse bijou artisanaux marchés
+316,Guy Lombard-Fouquet,0630323831,Photographe pour événements de mariage,photographe événements mariage
+317,Monique de la Carpentier,0630271576,Réparateur de vélos à domicile,réparateur vélos domicile
+318,Julien Le Goff de Muller,0686014523,Propriétaire de stand de crêpes sur les marchés,propriétaire_stand crêpes marchés
+319,Jules Munoz du Poirier,0641567121,Livreurr de nourriture en bicyclette,livreurr nourriture bicyclette
+320,Jean Weber,0625762898,Organisateur d'événements pour enfants,organisateur dévénements enfants
+321,Paul Leclercq du Mercier,0674710403,Guide touristique pour voyages d'aventure,guide touristique voyage daventure
+322,Nicolas-Honoré Marie,0651905931,réparatrice d'appareils électroniques à domicile,réparatrice dappareils électroniques domicile
+323,Alexandria Godard,0603230282,vendeuse de produits de beauté naturels,vendeuse produits beauté_naturels
+324,Stéphanie Vidal-Pinto,0600405495,créatrice de cartes de vœux personnalisées,créatrice carte vœux personnalisées
+325,Andrée Fabre,0692026900,Designer de tatouages temporaires,designer tatouages temporaires
+326,Joséphine Le Roux-Simon,0629063531,professeure de musique à domicile,professeure musique domicile
+327,Jérôme-Raymond Le Roux,0614210944,Propriétaire de stand de nourriture vegan sur les marchés,propriétaire_stand nourriture vegan marchés
+328,Victor Carlier,0601686302,Assistant personnel pour les personnes âgées,assistant personnel personnes âgées
+329,Jacques Joseph,0600822197,Vendeur de fruits et légumes biologiques,vendeur fruit légumes biologiques
+330,Maurice Ollivier,0692136630,Coach en perte de poids et en nutrition,coach perte poids nutrition
+331,Julien Bonnin,0698414666,professeure de yoga à domicile,professeure yoga domicile
+332,Théodore du Martinez,0664521266,consultante en marketing numérique pour les petites entreprises,consultante marketing numérique petite entreprises
+333,Nicolas du Didier,0615576745,Réparateur de meubles à domicile,réparateur meubles domicile
+334,Renée Le Barthelemy,0668676871,Designer de bijoux personnalisés,designer bijou personnalisés
+335,Margaret Collet,0677956540,Propriétaire de stand de smoothies sur les marchés,propriétaire_stand smoothy marchés
+336,Agnès Le Renard,0665565062,Designer d'intérieur pour les petits espaces,designer dintérieur petits espaces
+337,Christophe-Franck Carpentier,0622839763,Guide touristique pour voyages culturels,guide touristique voyage culturels
+338,William Hoareau Le Perrin,0627406710,vendeuse de vêtements vintage,vendeuse vêtements vintage
+339,Léon Devaux,0681509744,Coach de vie pour les personnes en transition de carrière,coach vie personnes transition carrière
+340,Maryse Neveu,0658857440,Créateur de bougies artisanales,créateur bougies_artisanales
+341,Charlotte Chevallier,0677879736,Propriétaire de stand de pop-corn sur les marchés,propriétaire_stand popcorn marchés
+342,Grégoire du Besnard,0622665406,Designer de sacs à main personnalisés,designer sac_main personnalisés
+343,Julien Chauvet,0654787877,Photographe pour événements sportifs,photographe événements sportifs
+344,William Imbert,0633681756,Consultant en informatique pour les petites entreprises,consultant informatique petite entreprises
+345,Valérie Launay-Auger,0600912203,Réparateur de bijoux tous genres,réparateur bijou tous genre
+346,Édith Duhamel,0628908897,Créateur de contenu pour les blogs de voyage,créateur contenu blog voyage
+347,Danielle Fleury,0607632945,Professeur de danse à domicile,professeur danse domicile
+348,Luc Moreno,0663290041,Organisateur de fêtes privées ,organisateur fêtes_privées
+349,Isaac Le Alves,0624987135,Propriétaire de stand de tacos sur les marchés,propriétaire_stand taco marchés
+350,Julien Durand,0647461298,Designer de chaussures personnalisées,designer chaussures personnalisées
+351,Manon de la Garnier,0661219547,Guide touristique pour voyages gastronomiques,guide touristique voyage gastronomiques
+352,Isabelle du Lebon,0601673809,vendeuse de produits artisanaux,vendeuse produits artisanaux
+353,Élise Gauthier de Loiseau,0613725378,Coach en développement,coach développement
+354,Marine Auger,0648871100,Cours de mathématiques,cours mathématiques
+355,Dorothée Parent,0656032078,Cours de physique,cours physique
+356,Charlotte Delattre,0663599789,Cours de chimie,cours chimie
+357,Thierry Hoareau,0609608989,Cours de biologie,cours biologie
+358,Josette Gonzalez de la De Sousa,0608023170,Cours d'anglais,cours danglais
+359,Marguerite Gilbert,0646319486,Cours de français,cours français
+360,Patrick Vincent,0635971804,Cours d'espagnol,cours despagnol
+361,Isaac Becker,0647209593,Cours d'allemand,cours dallemand
+362,Agnès Mace,0676118704,Cours d'italien,cours ditalien
+363,Odette Martin,0693356578,Cours de portugais,cours portugais
+364,Julien Leger,0660647573,Cours de mandarin,cours mandarin
+365,daisy Pereira,0688072245,Cours de japonais,cours japonais
+366,Alexandre Lefort-Masson,0602179134,Cours de coréen,cours coréen
+367,Célina-Margot Gros,0616241328,Cours de russe,cours russe
+368,Nath Guillet,0634372641,Cours de programmation informatique,cours programmation informatique
+369,Marine Schneider,0699383627,Cours de développement web,cours développement web
+370,daisy Becker,0660250590,Cours de développement mobile,cours développement mobile
+371,Bernard Barre,0680853832,Cours de design graphique,cours design graphique
+372,Margaux De Oliveira,0699316062,Cours de dessin,cours dessin
+373,Thibault Blanchard,0656548759,Cours de peinture,cours peinture
+374,Bernard Rey,0650555547,"Cours de musique (piano, guitare, violon )",cours musique piano_guitare violon
+375,Stéphane Didier de Bazin,0603499206,Cours de chant,cours chant
+376,Laetitia Henry,0655481659,"Cours de danse (classique, jazz, hip-hop )",cours danse classique jazz hiphop
+377,Corinne-Antoinette Martin,0665829834,Cours de yoga,cours yoga
+378,Robert-Gilles Weber,0680856202,Cours de Pilates,cours pilates
+379,Chantal Perrin,0622965715,Cours de méditation,cours méditation
+380,Laetitia Voisin-Mathieu,0661115482,Cours de cuisine,cours cuisine
+381,Aimée Le Bonnet,0686316966,Cours de pâtisserie,cours pâtisserie
+382,Suzanne Payet,0628123803,Cours de photographie,cours photographie
+383,Thibaut Ferreira,0624649973,Cours de vidéo et montage vidéo,cours vidéo montage vidéo
+384,Éric Maillard,0669004714,Cours de théâtre,cours théâtre
+385,Matthieu du Leclercq,0665044185,Cours d'écriture,cours décriture
+386,Nicole Lefevre,0653831058,Cours de lecture rapide,cours lecture rapide
+387,Patrick Diallo,0657340303,Cours de prise de parole en public,cours prise parole public
+388,Martin Le Leclercq,0614126787,"Cours de préparation aux examens (SAT, ACT, GRE )",cours préparation_examen sat act gre
+389,Juliette Gomes-Blanchard,0691911984,Cours de gestion du temps,cours gestion temp
+390,Andrée-Amélie Leveque,0672275873,Cours de résolution de problèmes,cours résolution problèmes
+391,Adèle du Ruiz,0663238554,Cours de leadership,cours leadership
+392,Denis-Émile Parent,0656830377,Cours de gestion de projet,cours gestion projet
+393,Honoré Guillou,0644466206,Cours de comptabilité,cours comptabilité
+394,Marie de la Bouchet,0674290986,Cours de finance personnelle,cours finance personnelle
+395,Georges Hamon Le Roger,0673342983,Cours de marketing,cours marketing
+396,Alice Bruneau,0648529141,Cours de vente,cours vente
+397,Gilles Marchand,0647597861,Cours de gestion des ressources humaines,cours gestion ressources_humaines
+398,Victoire-Françoise Jacob,0622467842,Cours de droit,cours droit
+399,Bernard Collin,0699104336,Cours de psychologie,cours psychologie
+400,Léon Muller,0628221097,Cours de sociologie,cours sociologie
+401,Raymond Roger de Fischer,0687021709,Cours d'histoire,cours dhistoire
+402,Jacqueline Delattre,0654120684,Cours de philosophie,cours philosophie
+403,Alphonse Auger de la Morel,0694987242,Cours de théologie,cours théologie
+404,Étienne-Thomas Delorme,0649670799,Danse classique,danse classique
+405,Sébastien De Sousa-Lebon,0610611931,Danse jazz,danse jazz
+406,Jules Berthelot,0679258757,Danse contemporaine,danse contemporaine
+407,Jules Dufour,0690440732,Danse hip-hop,danse hiphop
+408,Célina Pasquier,0673771411,Breakdance,breakdance
+409,Christophe Courtois,0661908138,Popping,popping
+410,Marcel du Roussel,0653065372,Locking,locking
+411,Robert Charrier-Marion,0641529823,Waacking,waacking
+412,Christine de Fontaine,0676116133,Krump,krump
+413,Alain Breton,0663164784,Voguing,voguing
+414,Eugène Chretien,0630956415,Danse africaine,danse africaine
+415,Louis Maillard,0642283500,"Danse latine (salsa, bachata, merengue )",danse latine salsa bachata merengue
+416,Arthur Roche,0646295056,"Danse de salon (tango, valse, cha-cha )",danse salon tango valse chacha
+417,Léon Faure,0604806906,Danse orientale,danse orientale
+418,Augustin Ferreira,0624190349,"Danse indienne (bharatanatyam, kathak )",danse indienne bharatanatyam kathak
+419,Olivie Chauveau-Gallet,0674873230,"Danse polynésienne (hula, tahitienne )",danse polynésienne hula tahitienne
+420,Arthur Pruvost,0677275895,"Danse irlandaise (jig, reel )",danse irlandaise jig reel
+421,Frédéric Grenier,0667193594,"Danse écossaise (ceilidh, highland )",danse écossaise ceilidh highland
+422,Roland Leroy,0694621520,Danse folklorique,danse folklorique
+423,Cécile Le Baron,0614905329,Danse du ventre,danse ventre
+424,Amélie Meyer,0608781852,Piano,piano
+425,Martin-Timothée Seguin,0607817606,Guitare (acoustique ou électrique),guitare acoustique électrique
+426,Camille Chauvet-Hebert,0662079050,Batterie,batterie
+427,Michelle-Camille Dupont,0604116320,Basse,basse
+428,Édith Vincent,0674422077,Violon,violon
+429,Marc Gregoire-Camus,0653751391,Alto,alto
+430,Renée Le Perret,0690427219,Violoncelle,violoncelle
+431,Augustin Charrier-Berger,0661592850,Contrebasse,contrebasse
+432,Agathe-Margot Antoine,0636044767,Harpe,harpe
+433,Alfred du Georges,0693841364,Flûte traversière,flûte traversière
+434,Anne-Patricia Pinto,0645402093,Clarinette,clarinette
+435,Gilles-Benoît Boucher,0692964292,"Saxophone (alto, ténor )",saxophone alto ténor
+436,Éléonore Lebreton,0623708210,Trompette,trompette
+437,Jacques Rossi,0605587741,Cor d'harmonie,cor dharmonie
+438,Jules Olivier,0687356599,Trombone,trombone
+439,Jeanne Lemoine,0604476903,Tuba,tuba
+440,Michèle Caron,0603798941,"Percussions (congas, djembé )",percussions conga djembé
+441,Chantal Paris,0652086239,"Chant (classique, pop, jazz )",chant classique pop jazz
+442,Grégoire Marechal,0625144483,"Musique électronique (DJing, production )",musique électronique djing production
+443,Adèle Poulain Le Gilles,0658089888,Composition musicale,composition musicale
+444,Léon Jacquet-Henry,0627454650,Théorie musicale,théorie musicale
+445,Adèle Techer,0640008094,Analyse musicale,analyse musicale
+446,Dorothée Navarro,0670485747,Histoire de la musique,histoire musique
+447,Geneviève Royer,0661521249,Direction d'orchestre,direction dorchestre
+448,Michel Menard,0676346229,"Accompagnement musical (piano, guitare )",accompagnement musical piano_guitare
+449,Valentine Didier,0619410537,Journaliste sans carte de presse,journaliste sans carte presse
+450,Alexandre du Martinez,0634885860,Guide touristique sans diplôme,guide touristique sans diplôme
+451,Hugues Gosselin,0606842297,Chanteur de rue amateur,chanteur rue amateur
+452,Émilie Baron de Laurent,0647490941,Propriétaire de casino,propriétaire casino
+453,Gabriel-Julien Allard,0614191734,Détective privé (licence périmée),détective privé licence périmée
+454,Lucas Martel-Michaud,0622316399,Avocat radié,avocat radié
+455,Emmanuel-Aimé Riviere,0644311809,Médecin sans certification,médecin sans certification
+456,Anastasie Alexandre,0630320461,Organisateur de chasses au trésor professionnelles,organisateur chasse_trésor professionnelles
+457,Dominique Lefort,0643158184,Styliste pour animaux de compagnie,styliste animaux_compagnie
+458,Jean Pereira de Baron,0629971920,Chef de la technologie du sommeil,chef technologie sommeil
+459,Christiane De Oliveira,0616298819,Coach en relaxation et gestion du stress,coach relaxation gestion stress
+460,Yves Laporte,0618879118,Créateur de meubles en carton,créateur meubles carton
+461,Élise Jacquet-Joubert,0623127848,Photographe de nourriture,photographe nourriture
+462,Catherine Renard de la Benoit,0670597682,Art-thérapeute,artthérapeute
+463,Arthur Bourgeois,0634334418,Concierge de mariage,concierge mariage
+464,David Fabre,0650938014,Coach de voyage personnel,coach voyage personnel
+465,Véronique Lebon de la Roger,0643681133,Designer de tatouages personnalisés,designer tatouages personnalisés
+466,Martin Gomez du Jacques,0605427408,Fabricant de bijoux en résine,fabricant bijou résine
+467,Claude Menard,0629810795,Expert en Feng Shui,expert feng shui
+468,René de Lucas,0617249622,Spécialiste en design de lumières pour événements,spécialiste_design lumières événements
+469,Aimée Salmon de Hebert,0644576584,Coach de confiance en soi,coach confiance_soi
+470,Emmanuelle Perrot,0650570241,Consultant en marketing de médias sociaux,consultant marketing médias sociaux
+471,Henriette Blondel,0600283174,Spécialiste en design de t-shirts personnalisés,spécialiste_design tshirts personnalisés
+472,Alexandre du Moreno,0682924742,Concepteur de jeux vidéo,concepteur jeux vidéo
+473,Roland-Thibault Meyer,0635221043,Artisan de fabrication de meubles en bois flotté,artisan_fabrication meubles bois flotté
+474,Benjamin-Xavier Allain,0626482875,Expert en écriture de discours,expert écriture discours
+475,Tristan Gros,0682988745,Styliste personnel,styliste personnel
+476,Caroline Couturier,0627362151,Coach de cuisine,coach cuisine
+477,Corinne Olivier,0633430909,Chef privé,chef privé
+478,Daniel Nguyen-Chauvet,0613622460,Spécialiste en revêtements muraux en marbre,spécialiste revêtements muraux marbre
+479,Luc Hernandez,0693503230,Designer de bouquets de mariée,designer bouquet mariée
+480,William Henry,0642687834,Designer de luminaires en papier mâché,designer luminaires papier mâché
+481,Jacques Baudry,0676152331,Entraîneur personnel de yoga,entraîneur personnel yoga
+482,Isaac Renault,0604704574,Fabricant de cerfs-volants,fabricant cerfsvolants
+483,Pénélope Maurice,0664114062,Photographe de voyage,photographe voyage
+484,Bernard Blondel,0654534780,Coach de vie professionnelle,coach vie professionnelle
+485,Xavier Vincent,0694570409,Experte en mariage alternatif,experte mariage alternatif
+486,Adrienne-Audrey Bonnin,0619984803,Architecte de maisons écologiques,architecte maisons écologiques
+487,Isaac Noel,0692378837,Spécialiste en réparation de guitares,spécialiste réparation guitares
+488,Jacqueline Voisin-Boyer,0614660828,Designer de motifs de tissus,designer motif tissus
+489,Philippe Thibault,0605340388,Conseiller en mode durable,conseiller mode_durable
+490,Capucine-Michèle Martins,0673880710,Artiste du vitrail,artiste vitrail
+491,Arthur Leroux-Maillard,0681735075,Producteur de podcasts,producteur podcasts
+492,Marcel Thierry,0606304731,Coach de décoration d'intérieur,coach décoration dintérieur
+493,André Mallet,0650774660,Consultant en organisation de garde-robe,consultant organisation garderobe
+494,Victoire Bouvet,0623652639,Spécialiste en design de stands pour foires commerciales,spécialiste_design stand foires commerciales
+495,Roland Collet-Turpin,0686774708,Coach de productivité,coach productivité
+496,André de la Millet,0697976363,Spécialiste en design de logos,spécialiste_design logo
+497,André Lopes-Bouvier,0685455575,Expert en création de parfums personnalisés,expert création parfums personnalisés
+498,Alfred Pichon,0621856282,Designer de robes de soirée,designer robe soirée
+499,Valérie Ferreira,0633664417,Écrivain de romans historiques,écrivain roman historiques
+500,Véronique-Christelle Coste,0695876540,Styliste pour chevaux,styliste chevaux
+501,Auguste Rousseau,0684002865,Chef de cuisine végétalienne,chef cuisine végétalienne
+502,Corinne Thomas,0602282155,Spécialiste en design de pochettes d'albums,spécialiste_design pochettes dalbums
+503,Sébastien-Martin Riviere,0603026215,Designer de couvertures de livres,designer couverture livres
+504,Odette Fernandes-Vallee,0670433126,Coach de développement personnel,coach développement personnel
+505,Théophile de Boutin,0664277504,Artiste en peinture sur corps,artiste peinture corp
+506,Colette Lejeune,0656885102,Concepteur de planchers de danse interactifs,concepteur planchers danse interactifs
+507,Julie Godard,0667494888,Créateur de poterie en céramique,créateur poterie céramique
+508,Alain Coulon,0662303776,Spécialiste en design d'emballages,spécialiste_design demballages
+509,Manon Joseph,0616643540,Coach en nutrition,coach nutrition
+510,Michelle Marie,0617622105,Consultant en sécurité informatique,consultant sécurité informatique
+511,Andrée de Gautier,0637206697,Photographe animalier,photographe animalier
+512,Adrien Le Goff,0679369571,Expert en réparation de vélos électriques,expert réparation vélos électriques
+513,Danielle Gaudin,0650561489,Styliste de meubles d'extérieur,styliste meubles dextérieur
+514,Gabriel Renaud,0621203922,Designer de costumes de théâtre,designer costume_théâtre
+515,Sébastien Texier,0679697529,Coach d'écriture créative,coach décriture créative
+516,Olivier Lebon de la Thibault,0694988180,Écrivain de guides touristiques,écrivain guide touristiques
+517,Gabrielle Renault,0644180410,Spécialiste en design de sites web,spécialiste_design site web
+518,Adélaïde Marechal,0609311747,Consultant en gestion des médias,consultant gestion médias
+519,Michelle Monnier,0690961038,Créateur de sculptures en fil de fer,créateur sculpture_fil fer
+520,Joseph Gilbert,0635241750,Designer de sacs à main en cuir,designer sac_main cuir
+521,Catherine Coste,0687655829,Coach de photographie,coach photographie
+522,Dorothée Guilbert-Muller,0655195187,Expert en réparation d'instruments à vent,expert réparation dinstruments vent
+523,Daniel Collin,0603098369,Créateur de bijoux en dentelle de métal,créateur bijou dentelle métal
+524,Christelle Leblanc,0685871980,Artiste en peinture à l'huile sur toile,artiste peinture lhuile toile
+525,Grégoire Salmon de Prevost,0670361756,Photographe de portraits pour animaux,photographe portrait animaux
+526,Rémy Garnier de Brun,0691362189,Compteur de grains de sable,compteur grain sable
+527,Timothée Hamon,0690167289,Livreur de journaux,livreur journaux
+528,Thomas Fernandes,0604667662,Distributeur de flyers,distributeur_flyer
+529,Nath Julien de la Maurice,0642523025,Employé de fast-food,employé fastfood
+530,Thibault-Nicolas Grenier,0678874223,Baby-sitter,babysitter
+531,Guy Masson,0641732890,Caissier dans un supermarché,caissier supermarché
+532,Sébastien Bouchet,0654033516,Employé de station-service,employé stationservice
+533,Valérie Nguyen,0653623452,Animateur  en centre de loisirs,animateur centre loisirs
+534,André Le Dupre,0684087526,Serveur dans un restaurant,serveur restaurant
+535,Éric Lucas-Joubert,0628329721,"Entretien, ménage de votre intérieur",entretien ménage intérieur
+536,Margaud Chretien,0644990314,Agent d'entretien,agent dentretien
+537,David Valentin,0632302968,Gardien  d'enfants à domicile,gardien denfants domicile
+538,Gabriel Chretien,0676331812,Guide touristique,guide touristique
+539,Michelle-Henriette Ruiz,0654470790,Coursier,coursier
+540,Charlotte Henry,0626346860,Agent de surveillance,agent surveillance
+541,Alphonse Roger,0649441159,Commis de cuisine,commis cuisine
+542,Jean Delaunay,0690810637,"Second commis de cuisine, expérience en restaurants",second commis cuisine expérience restaurant
+543,Matthieu Lebreton-Martineau,0609563534,Opérateur  de saisie,opérateur_saisie
+544,Océane Allard,0690644917,Agent de tri postal,agent tri_postal
+545,Bernard Grenier,0601363894,Hôte(sse) d'accueil,hôtesse daccueil
+546,Colette Gautier-Roussel,0671485545,Vendeur  en magasin,vendeur magasin
+547,Antoinette Lopez,0602667022,Agent de nettoyage,agent nettoyage
+548,Laurence Voisin,0659452643,Employé de pressing,employé_pressing
+549,Jeanne Jean-Weber,0690774856,Préparateur  de commandes,préparateur_commandes
+550,Théophile Maillot,0691292931,Agent de service clientèle,agent service clientèle
+551,Patrick Martin,0615014407,Distributeur  de prospectus,distributeur prospectus
+552,Pénélope Legendre du Pichon,0683053107,Agent de caisse,agent caisse
+553,Julien Herve,0668793677,Agent d'exploitation,agent dexploitation
+554,Marcel Lamy-Gregoire,0635960457,Livreur  de pizzas,livreur pizza
+555,Michel Delattre,0636897184,Aide-soignante,aidesoignante
+556,Honoré Prevost,0612567241,Serveur dans un café,serveur café
+557,Hugues Girard,0616218973,Assistant administratif,assistant administratif
+558,Jean Navarro,0648275699,Caissier dans un cinéma,caissier cinéma
+559,Manon Mary-Perret,0680226199,Agent d'entretien dans les hôtels,agent dentretien hôtels
+560,Laurence-Suzanne Gerard,0686450479,Préparateur  de sandwichs,préparateur sandwich
+561,Adélaïde du Maillard,0660824059,Réceptionniste,réceptionniste
+562,Josette Fournier,0660760845,Employé de rayon dans un supermarché,employé rayon supermarché
+563,Lucy Martin,0601656535,"J'ai travaillé dans une clinique vétérinaire, je veux soigner les petits bobos de vos animaux",jai travaillé clinique vétérinaire veux soigner petits bobos animaux
+564,Jeannine Masson,0639657488,Employé de la poste,employé poste
+565,Joséphine Levy-Collin,0675624280,Arrosage de votre jardin potager,arrosage jardin potager
+566,Jacques Andre-Lebon,0600920880,Opérateur  de production,opérateur production
+567,Jean Tanguy,0606736297,Garçon  de café,garçon café
+568,Arnaude Le Maury,0656252157,Agent de sécurité,agent sécurité
+569,Océane Bousquet,0636039760,Conducteur  de chariot élévateur,conducteur chariot élévateur
+570,Émilie Bigot,0618195102,Nettoyage à domicile pour personnes âgées,nettoyage domicile personnes âgées
+571,Gérard Pereira-Riviere,0675102747,Employé de pressing,employé_pressing
+572,Thibaut Maury-Da Costa,0687285924,Agent de maintenance,agent maintenance
+573,Andrée Lelievre Le Schneider,0644917575,Déménageur,déménageur
+574,Élisabeth Labbe du Collet,0619809965,Manutentionnaire,manutentionnaire
+575,Franck Riviere,0621006450,Opérateur  sur machine,opérateur machine
+576,Jean Normand,0667345691,Agent d'accueil en centre commercial,agent daccueil centre commercial
+577,Margot Lagarde,0683752221,Présence et aide pour personnes âgées,présence aide personnes âgées
+578,Anastasie Blanc,0655581232,Garde d'enfants,garde denfants
+579,Brigitte Fournier,0627546169,Cours particuliers,cours particuliers
+580,Édouard Le Blondel,0615651635,Assistance informatique,assistance informatique
+581,Édouard Daniel,0678635215,"Je peux faire les devoirs avec vos enfants, les surveiller",peux faire devoir enfants surveiller
+582,Daniel Ledoux,0603077872,Soutien scolaire,soutien scolaire
+583,Roland Foucher-Tessier,0656379279,Préparation de repas,préparation repas
+584,Roland Marie,0658274332,"Spectacles de danse et autres : décors, musique",spectacles danse autres décors musique
+585,Thomas Picard,0625877458,Rangement et organisation de votre habitation,rangement organisation habitation
+586,Yves Lebon du Fontaine,0646035262,Garde d'animaux de compagnie,garde danimaux compagnie
+587,Julien Dumas,0686074812,Jardinage,jardinage
+588,Alix Salmon,0675505558,Nettoyage de la maison,nettoyage maison
+589,Luce Roche de Charles,0684212264,Repassage,repassage
+590,Océane Paris,0624815852,Couture,couture
+591,daisy Lelievre de Noel,0618611935,Réparation de vélos,réparation vélos
+592,Alix Marechal,0681224908,Ménage,ménage
+593,Joséphine-Alexandrie Berthelot,0646849509,Assistance administrative,assistance administrative
+594,Gabriel de Lambert,0634940581, Assistance à la mobilité,assistance mobilité
+595,Manon Masson,0611541966,coach sportif,coach sportif
+596,Xavier-Laurent Lesage,0681823505,Garde de nuit,garde nuit
+597,Océane Martinez,0635933100,Cours de langue,cours langue
+598,Maurice-Christophe Guillot,0638784856,Garde de jour,garde jour
+599,Christophe Marchand,0645095492,Mise en place de programmes pour personnes en situation de handicap,mise_place programme personnes situation_handicap
+600,Alexandre-Bertrand Lebrun,0691728624, la lecture,lecture
+601,Dominique Petitjean,0613896143,Entretien du jardin,entretien jardin
+602,Alice Andre,0689682798,Coiffure à domicile,coiffure domicile
+603,Jules Le Rey,0667172224,Massage à domicile,massage domicile
+604,Astrid Barbe,0667318260,Réparation de petits appareils électroménagers,réparation petits appareils_électroménagers
+605,Susanne Cohen,0641120746,Livraison de courses à domicile,livraison course domicile
+606,Emmanuel Gerard,0628934260,Assistance à la prise de médicaments,assistance prise_médicaments
+607,Yves Lucas,0602129446,Conseils en nutrition,conseils nutrition
+608,Marcelle Reynaud,0640349563,Cours de musique,cours musique
+609,Thomas Lejeune,0666050933,Promenade de chiens,promenade_chiens
+610,David Lopes-Barre,0603235949,Préparation de colis pour expédition,préparation colis expédition
+611,Christophe Giraud,0690347697, Rédaction de CV et lettres de motivation,rédaction_cv lettres_motivation
+612,Matthieu Jean,0699878305,Réparation de petits meubles,réparation petits meubles
+613,Michelle Da Costa,0654317663,Dépannage informatique,dépannage_informatique
+614,Nath Fleury,0642036421,Réalisation de petits travaux de bricolage,réalisation petits travaux bricolage
+615,Adèle Wagner,0681995448,Déménagement et poids-lourd : je peux soulever cent kilos,déménagement poidslourd peux soulever cent kilo
+616,Honoré Bodin,0657528658,Désherbage de jardin,désherbage jardin
+617,Théodore Masson,0614391820,Livraison de médicaments à domicile,livraison médicaments domicile
+618,Diane Hamel,0658513886, la recherche d'emploi,recherche demploi
+619,Théodore Leveque,0675958850,Organisation d'événements privés,organisation dévénements privés
+620,Cécile Lamy,0629240023,Assistance juridique,assistance juridique
+621,Daniel Leroy-Besnard,0630815323,Démarches administratives à domicile,démarches administratives domicile
+622,Laure-Julie Camus,0602039622,Repas de fête à domicile,repas fête domicile
+623,Marguerite Gomez,0699687019,coach de vie,coach vie
+624,Renée Rocher,0682415902,Nettoyage de vitres,nettoyage_vitres
+625,Édouard Allard,0601136895, Rédaction de courriers administratifs,rédaction courriers_administratifs
+626,Nath-Michèle Regnier,0667416047,Séances de relaxation et de bien-être à domicile,séances_relaxation bienêtre domicile
+627,Richard Ruiz-Guyot,0637551398,Garde d'enfants,garde denfants
+628,Jeannine de Hoareau,0680060425,Cours particuliers,cours particuliers
+629,Aimé Poirier,0674094849,coach personnel,coach personnel
+630,Charlotte Courtois,0686829063,Assistance administrative,assistance administrative
+631,Hugues Pineau-Jean,0687119227,Conseils en nutrition,conseils nutrition
+632,Thomas Arnaud,0634524553,Organisation d'événements privés,organisation dévénements privés
+633,Raymond Bertin du Gerard,0688202272,Livraison de courses à domicile,livraison course domicile
+634,Astrid Duval,0664685039,Préparation de repas à domicile,préparation repas domicile
+635,Victor Rodriguez,0613613898,Entretien du domicile,entretien domicile
+636,Honoré du Thomas,0674202770,Coiffure à domicile,coiffure domicile
+637,Andrée Da Costa,0649474776,Massage à domicile,massage domicile
+638,Constance Rocher,0676756325,Garde d'animaux de compagnie,garde danimaux compagnie
+639,Charles Moreau-Reynaud,0697340626,Réalisation de petits travaux de bricolage,réalisation petits travaux bricolage
+640,Suzanne Germain,0697049580,Accompagnement à des sorties culturelles,accompagnement sortie culturelles
+641,Stéphane Maillot,0613420088,Conseils en gestion du temps,conseils gestion temp
+642,Andrée du Legrand,0631884567,Cours de langue,cours langue
+643,Lorraine Le Petit,0625152649,Garde de nuit,garde nuit
+644,Suzanne Lacombe,0639559838,Garde de jour,garde jour
+645,Arthur Simon,0696562777,coach sportif,coach sportif
+646,Frédérique Voisin de la Maillard,0680373722,Promenade de chiens,promenade_chiens
+647,Eugène Deschamps,0696447217,Dépannage informatique,dépannage_informatique
+648,Philippine Lefebvre Le Bouvet,0689474331,Conseils en gestion de la douleur,conseils gestion douleur
+649,Margot Turpin,0635424248,Conseils en gestion du stress,conseils gestion stress
+650,Marguerite Martel Le Da Costa,0699181874,Conseils en amélioration de la qualité de vie,conseils amélioration qualité vie
+651,Victoire Perrier,0660323305,Réparation de petits appareils électroménagers,réparation petits appareils_électroménagers
+652,Nicolas Reynaud,0677187804,Livraison de médicaments à domicile,livraison médicaments domicile
+653,Émilie Faure,0695950635,Assistance à la prise de médicaments,assistance prise_médicaments
+654,Étienne Nguyen,0647863653,Réalisation de petits travaux de jardinage,réalisation petits travaux jardinage
+655,Andrée Le Gall,0657081162,Conseils en décoration intérieure,conseils décoration_intérieure
+656,Valérie Pelletier,0603793825,Séances de relaxation et de bien-être à domicile,séances_relaxation bienêtre domicile
+657,Raymond du Leleu,0604204419,Conseils en organisation de la maison,conseils organisation maison
+658,Thibaut Thibault-Neveu,0656400330,Organisation de séjours vacances,organisation séjours vacances
+659,Alain Toussaint de Vaillant,0618050791,Soutien à la recherche d'emploi,soutien recherche demploi
+660,daisy Morin,0665082697,Organisation d'activités de loisirs,organisation dactivités_loisirs
+661,Richard Dupre de Picard,0664234420,Conseils en prévention des maladies,conseils prévention malady
+662,Anaïs Bailly,0671944382,Conseils en éducation parentale,conseils éducation parentale
+663,Jeannine Laine,0622805964,Accompagnement à des rendez-vous professionnels,accompagnement rendezvous professionnels
+664,Charles Nicolas,0671817204,Accompagnement à des rendez-vous familiaux,accompagnement rendezvous familiaux
+665,Victoire Regnier,0641843776,Accompagnement lors de démarches administratives,accompagnement lors démarches administratives
+666,Valérie du Camus,0611048474,Conseils en gestion des relations sociales,conseils gestion relation sociales
+667,Françoise Devaux,0626794264,Conseils en gestion des relations familiales,conseils gestion relation familiales
+668,Adrien-William Joly,0696884675,Accompagnement lors de déménagements,accompagnement lors déménagements
+669,Timothée Dubois-Texier,0673600432,Rédaction de CV et lettres de motivation,rédaction_cv lettres_motivation
+670,Théophile Roussel,0629306076,Conseils en développement personnel,conseils développement personnel
+671,Éléonore Deschamps-Maury,0637434738,Accompagnement lors de voyages,accompagnement lors voyage
+672,Véronique-Valentine Hebert,0695469007,Accompagnement pour les courses et les achats,accompagnement course achats
+673,Benjamin Blanc,0686686785,Conseils en gestion du budget familial,conseils gestion budget familial
+674,Michelle Henry,0618427319,Conseils en gestion de la carrière professionnelle,conseils gestion carrière professionnelle
+675,Charles Pages,0649558836,Organisation de cérémonies familiales,organisation cérémonies familiales
+676,Clémence Lagarde-Wagner,0640036126,Conseils en aménagement du lieu de vie,conseils aménagement lieu vie
+677,Hugues Payet,0645152306,Animation d'ateliers créatifs,animation dateliers créatifs
+678,Richard Maillet,0681380958,Accompagnement en nature thérapie,accompagnement nature thérapie
+679,Emmanuel Texier,0684558235,Organisation de rencontres intergénérationnelles,organisation rencontres intergénérationnelles
+680,Élisabeth de Begue,0680268955,Cours de yoga adapté aux seniors,cours yoga adapté senior
+681,Zacharie Marques de la Guichard,0662508908," dégustation de vin à domicile, idéal pour vos soirées entre amis",dégustation vin domicile idéal soirées entre amis
+682,Margot Francois de la Leroux,0633993336,Accompagnement en méditation de pleine conscience,accompagnement méditation_pleine conscience
+683,François Le Pereira,0642460419, promenade en canoë ou kayak pour tous,promenade canoë kayak tous
+684,Benjamin de la Lacombe,0605513238,"Préparation de plats pour régimes spécifiques (végétalien, sans gluten )",préparation plat_régimes spécifiques végétalien sans gluten
+685,Valentine Navarro,0634290865,Soutien scolaire à domicile en français langue étrangère (FLE),soutien scolaire domicile français langue_étrangère fle
+686,Henriette Henry,0629010704,Pratique de la sophrologie pour les enfants et adolescents,pratique sophrologie enfants adolescent
+687,François Jacob,0604807878,Organisation de voyages pour seniors,organisation voyage senior
+688,Théophile Le Garcia,0644401554, traduction pour personnes malentendantes,traduction personnes malentendantes
+689,Constance Valentin-Colin,0677899999,Accompagnement dans la réalisation de projets artistiques,accompagnement réalisation projets_artistiques
+690,Charlotte Klein,0615711138,Cours de musique pour personnes atteintes de troubles cognitifs,cours musique personnes atteintes_trouble cognitifs
+691,Jérôme Coulon,0657923086,Création de programmes de nutrition pour sportifs amateurs,création programme nutrition sportifs amateur
+692,Isaac Lemonnier,0618138350,Organisation de cours de danse pour seniors,organisation cours danse senior
+693,Corinne Delaunay,0650289774,Soutien pour les personnes atteintes de troubles de l'alimentation,soutien personnes atteintes_trouble lalimentation
+694,Denis-Sébastien Potier,0677419487, coiffure pour personnes à cheveux courts,coiffure personnes cheveux court
+695,Michelle Munoz,0621911559,"Accompagnement pour les personnes en transition de vie (changement de travail, divorce )",accompagnement personnes transition vie changement travail divorce
+696,Hugues Duhamel,0688746309,Formation en développement,formation développement
+697,Julie Henry,0612915795,Animateur de soirées pour enfants,animateur soirées enfants
+698,Joséphine Le Imbert,0652999554,Testeur de jeux vidéo,testeur jeux vidéo
+699,Juliette Denis du Hamel,0659842231,Hôte de soirée pour Airbnb,hôte soirée airbnb
+700,Françoise Delattre,0640776291,Conducteur de voiture-bélier pour films,conducteur voiturebélier film
+701,Martine du Toussaint,0691936256,Consultant en survie urbaine,consultant survie urbaine
+702,Émile-Zacharie Tanguy,0606419393,"Guide de tourisme de niche (street art, gastronomie locale )",guide tourisme niche street art gastronomie locale
+703,Thierry Pinto,0644121432,Agent de collecte de données pour la recherche scientifique,agent collecte données recherche scientifique
+704,Lucie Dufour,0674386299,Assistant de vie pour personnes âgées ou handicapées,assistant vie personnes âgées handicapées
+705,Robert Chretien,0609058737,Décorateur de fêtes d'anniversaire,décorateur fêtes_danniversaire
+706,Thibault Herve du Mendes,0672492576,Développeur de sites web pour petites entreprises,développeur site web petite entreprises
+707,Zacharie-Honoré Dufour,0650789825,Photographe pour animaux domestiques,photographe animaux domestiques
+708,Guy de la Boulay,0648298302,Livreur de repas à domicile à vélo,livreur repas domicile vélo
+709,Émilie Guichard,0681561630,Conseiller en image personnelle et professionnelle,conseiller image personnelle professionnelle
+710,Joséphine Rodriguez-Lebreton,0618657153,Professeur particulier de langues étrangères,professeur particulier langues_étrangères
+711,Camille Grenier-Royer,0633882604,Gestionnaire de réseaux sociaux pour les petites entreprises,gestionnaire réseaux_sociaux petite entreprises
+712,Pauline Faure de Delmas,0601572775,Coach sportif personnel,coach sportif personnel
+713,Sébastien Leger-Giraud,0686580483,Créateur de contenu vidéo pour les réseaux sociaux,créateur contenu vidéo réseaux_sociaux
+714,Georges Collet,0665227800,Garde d'enfants pendant les mariages,garde denfants pendant mariages
+715,Thibaut Maillot,0631170131,Concepteur de bijoux faits à la main,concepteur bijou faits_main
+716,Augustin Denis,0653897890,Collecteur de fonds pour des organisations caritatives,collecteur fonds organisation caritatives
+717,Emmanuelle Besnard-Weiss,0659040987,Assistant de recherche en laboratoire,assistant recherche laboratoire
+718,Guy Raymond,0603335477,Organisateur de voyages pour célibataires,organisateur voyage célibataires
+719,Denise-Pauline Perrier,0684960804,Réparateur de vélos à domicile,réparateur vélos domicile
+720,Paul Mathieu,0684885985,Coiffeur à domicile,coiffeur domicile
+721,Claire Renard,0699322646,Photographe d'événements familiaux,photographe dévénements familiaux
+722,Pauline-Diane Lombard,0675054759,Coach de vie,coach vie
+723,Alexandrie Leclercq,0649704515,Conseiller en nutrition,conseiller nutrition
+724,Marcelle Riou-Peltier,0667649396,Répétiteur scolaire en ligne,répétiteur scolaire ligne
+725,Adèle Morel,0663474867,Organisateur de soirées pour enfants,organisateur soirées enfants
+726,Astrid Gonzalez de Bigot,0621126785,Enseignant de yoga pour enfants,enseignant yoga enfants
+727,Alex Mendes,0643479922,Jardinier paysagiste,jardinier paysagiste
+728,Gilbert de Weiss,0671887961,Artiste de tatouage : design et dessins ,artiste tatouage design dessins
+729,Susanne-Véronique Colin,0674323763,Dessinateur industriel,dessinateur industriel
+730,Zoé Royer,0637358983,Agent de location de vacances,agent location vacances
+731,Rémy Couturier Le Raymond,0670456715,Concepteur de sites web pour les artistes,concepteur site web artiste
+732,Emmanuel-Martin Bigot,0678880373,Gestionnaire de projets de construction,gestionnaire projets_construction
+733,Valérie Briand-Mercier,0653188985,Organisateur de déménagements,organisateur déménagements
+734,Émilie de la Fontaine,0648662579,Expert en nettoyage de tapis,expert nettoyage tapis
+735,Arthur Besnard de Leblanc,0640670579,Designer de logos,designer logo
+736,Margaud Georges,0625900595,Guide touristique pour les visites de quartiers,guide touristique visites quartiers
+737,Jean Valette,0634613209,Maquilleur pour événements,maquilleur événements
+738,René Traore du Herve,0655847261,Designer de vitrines de magasin,designer vitrine_magasin
+739,Patrick de Humbert,0645366283,Assistant personnel virtuel,assistant personnel virtuel
+740,Madeleine Colin,0633931668,Agent de sécurité pour événements,agent sécurité événements
+741,Susanne Rousset,0607489967,Traducteur en ligne,traducteur ligne
+742,Julien Rodriguez,0644073594,Entretien ménager pour maisons de vacances,entretien_ménager maisons vacances
+743,Dorothée Pasquier,0636668658,Chasseur de têtes pour recruteurs,chasseur têtes recruteurs
+744,Denise-Maggie Collet,0683594032,Guide touristique de montagne,guide touristique montagne
+745,Robert Chevallier,0621718237,Organisateur de fêtes privées,organisateur fêtes_privées
+746,Alain Barre,0690901992,Gestionnaire de boutique en ligne.,gestionnaire boutique ligne
+747,Martine Lucas de Parent,0624014203,Artiste de maquillage pour effets spéciaux,artiste maquillage effets spéciaux
+748,Josette-Sabine Labbe,0679117706,Coach de survie en milieu sauvage,coach survie milieu sauvage
+749,Victoire Martineau-Potier,0609959269,Graphiste pour jeux de société,graphiste jeux_société
+750,David Coulon du Ribeiro,0666377352,Coordinateur d'événements d'entreprise,coordinateur dévénements dentreprise
+751,Frédéric Noel,0698440248,Guide de tourisme culinaire,guide tourisme culinaire
+752,Alphonse Gomes-Rousseau,0671336569,Assistant de recherche médicale,assistant recherche médicale
+753,Véronique Durand,0636101614,Évaluateur de qualité pour restaurants,évaluateur qualité restaurant
+754,Nath Rossi Le Fouquet,0632603516,Décorateur de vitrines de magasin,décorateur vitrine_magasin
+755,Catherine Aubert-Tanguy,0601530779,Conseiller en mode durable,conseiller mode_durable
+756,Eugène du Charrier,0651140686,Animateur de fêtes pour enfants avec thèmes spécifiques,animateur fêtes enfants thèmes spécifiques
+757,Matthieu Berthelot,0602787200,Moniteur de parapente,moniteur parapente
+758,Alix Auger,0675729890,Chanteur pour mariages et événements spéciaux,chanteur mariages événements spéciaux
+759,Laurent-Richard Briand,0640849462,Coach en communication interpersonnelle,coach communication interpersonnelle
+760,Grégoire Labbe,0680771179,Chef de projet pour événements sportifs,chef projet événements sportifs
+761,Emmanuelle Dupuy de la Guilbert,0634349569,Expert en décoration de gâteaux,expert décoration gâteaux
+762,Suzanne Prevost,0666764114,Garde de nuit pour bébés,garde nuit bébés
+763,Céline de la Dumas,0627781470,Guide de tourisme pour les sites historiques et culturels,guide tourisme site historiques culturels
+764,Thierry Charrier,0689788799,Coach de bien-être holistique,coach bienêtre holistique
+765,Marianne Da Silva,0696885432,Pilote de drones pour la photographie aérienne,pilote drone photographie aérienne
+766,Jules Rousset,0657444589,Entraîneur personnel de fitness pour personnes âgées,entraîneur personnel fitness personnes âgées
+767,Alexandre Bourgeois,0622110049,Gardien de chien pour les propriétaires qui voyagent souvent,gardien chien propriétaires voyagent souvent
+768,Henri Fournier,0628443721,Concepteur de décoration intérieure pour espaces restreints,concepteur décoration_intérieure espaces restreints
+769,Maggie Garnier,0640202957,"Coach de vie spirituelle, pour découvrir de nouvelles dimensions",coach vie spirituelle découvrir nouvelles dimension
+770,Emmanuelle Regnier,0629608486,Designer de costumes pour théâtre et cinéma,designer costume_théâtre cinéma
+771,Cécile-Josette Lefort,0669362880,Gestionnaire de location de voitures anciennes pour événements spéciaux,gestionnaire location voitures anciennes événements spéciaux
+772,Aurélie Nicolas de Vallet,0635938007,Monteur vidéo pour YouTubeurs,monteur vidéo youtubeurs
+773,Marianne Collet,0647336302,Coach en développement personnel pour adolescents,coach développement personnel adolescent
+774,Jean Couturier,0613333811,Écrivain fantôme pour biographies et mémoires,écrivain fantôme biography mémoires
+775,Éric Fouquet,0656794030,Animateur de jeux-questionnaires pour événements corporatifs,animateur jeuxquestionnaires événements corporatifs
+776,Jean-Thibaut Bouvet,0693299505,Designer de papeterie pour événements spéciaux,designer papeterie événements spéciaux
+777,Aurélie-Philippine Morel,0630692788,Styliste personnel pour les personnes transgenres et non-binaires,styliste personnel personnes transgenres nonbinaires
+778,Astrid Lemonnier,0646647522,Animateur de radio communautaire,animateur radio communautaire
+779,Susanne Marchal,0688178506,Expert en régimes alimentaires alternatifs,expert régimes_alimentaires alternatifs
+780,Thérèse Baudry de Meyer,0600343311,Guide de voyage en bateau de croisière,guide voyage bateau croisière
+781,Aimé Leduc,0670462007,Coach en développement de carrière pour jeunes diplômés,coach développement carrière jeunes diplômés
+782,Luce Renault-Ferreira,0684292408,Réparateur d'instruments de musique,réparateur dinstruments musique
+783,Aimé Roy,0691766681,Développeur d'applications mobiles pour événements spéciaux,développeur dapplications_mobile événements spéciaux
+784,Louise Samson,0638249428,Guide de tourisme éco-responsable,guide tourisme écoresponsable
+785,Maurice Delmas,0656794290,Coach en gestion de temps pour les entrepreneurs,coach gestion temp entrepreneur
+786,Cécile Jacquet,0604018155,Conseiller en santé et sécurité pour les événements de plein air,conseiller santé sécurité événements plein air
+787,Lucas-Julien Denis,0603176070,Coordinateur de projets artistiques communautaires,coordinateur projets_artistiques communautaires
+788,Élise de la Blanc,0647299141,Designer de jardins pour petits espaces,designer jardins petits espaces
+789,Céline Ramos,0696731182,Animateur de jeux vidéo en ligne,animateur jeux vidéo ligne
+790,Gilbert-Thierry Blanchard,0616586350,Coach de gestion du stress pour les personnes en situation de crise,coach gestion stress personnes situation crise
+791,Théophile Alexandre-Mary,0659335945,Gestionnaire de réseaux sociaux pour les musiciens indépendants,gestionnaire réseaux_sociaux musiciens indépendants
+792,Josette Robin,0694706754,Agent de vente de produits artisanaux en ligne,agent vente produits artisanaux ligne
+793,Pénélope-Louise Le Goff,0625329241,Traducteur pour les sites web d'ONG internationales,traducteur site web dong internationale
+794,Benjamin Toussaint,0656982603,Réalisateur de films d'entreprise pour les petites entreprises,réalisateur film dentreprise petite entreprises
+795,Rémy Benard-Humbert,0631223782,Organisateur de jeux de rôle grandeur nature,organisateur jeux rôle grandeur nature
+796,Vincent Peron,0628916674,Coordinateur de voyages d'immersion culturelle pour les écoles.,coordinateur voyage dimmersion culturelle écoles
+797,Margaret Thierry,0623545727,Créateur de contenu pour les réseaux sociaux,créateur contenu réseaux_sociaux
+798,Gilles Poulain du Lecoq,0622264326,Professeur de yoga pour enfants,professeur yoga enfants
+799,François Thierry,0614214858,Correcteur d'orthographe et de grammaire indépendant,correcteur dorthographe grammaire indépendant
+800,Joséphine Fouquet,0647002629,Vendeur de bijoux faits à la main,vendeur bijou faits_main
+801,Maryse Bernier,0658189209,Assistant virtuel pour entrepreneurs,assistant virtuel entrepreneur
+802,Richard Vallee-Robert,0624194343,Animateur de jeux de société pour personnes âgées,animateur jeux_société personnes âgées
+803,Olivier Antoine,0679782537,Guide de voyage pour les voyageurs solitaires,guide voyage voyageurs solitaire
+804,Roger Mercier,0660058167,Réparateur de vélos à domicile,réparateur vélos domicile
+805,Benjamin David-Pinto,0698967841,Coach en relations amoureuses,coach relation_amoureuses
+806,Andrée Garcia-Da Costa,0691847213,Créateur de jardins de toit,créateur jardins toit
+807,Jeanne Poulain-Vincent,0679534639,Créateur de bougies artisanales,créateur bougies_artisanales
+808,Roger Picard,0606770745,Tuteur de mathématiques en ligne,tuteur mathématiques ligne
+809,Olivier Foucher,0666873140,Décorateur de mariages et d'événements spéciaux,décorateur mariages dévénements spéciaux
+810,Joséphine Dufour,0695952372,Guide de randonnée en montagne,guide randonnée montagne
+811,Guillaume Gauthier,0659392613,Coach de rédaction créative,coach rédaction créative
+812,Alexandrie Robin,0661964012,Créateur de sculptures en fil de fer,créateur sculpture_fil fer
+813,Victor Jacques,0662681479,Guide touristique de la ville en vélo électrique,guide touristique ville vélo électrique
+814,Rémy Costa de Morin,0602976218,Joueur professionnel de jeux vidéo en ligne,joueur professionnel jeux vidéo ligne
+815,Émile Coulon,0690925681,Traducteur de mangas et de bandes dessinées,traducteur mangas bandes dessinées
+816,Henri Couturier,0692940016,Coach en éducation canine,coach éducation canine
+817,Christelle Dijoux,0656594892,Organisateur de soirées à thème,organisateur soirées thème
+818,Alphonse Le Bazin,0612858690,Professeur de danse pour enfants,professeur danse enfants
+819,Alexandre Dufour,0695812000,Créateur de sites web pour les petites entreprises locales,créateur site web petite entreprises locale
+820,Adrien Maurice,0664380275,Coach en développement personnel pour les étudiants universitaires,coach développement personnel étudiants universitaires
+821,Adrienne Nicolas,0666989605,Guide touristique pour les expériences culinaires en ville,guide touristique expériences culinaires ville
+822,Josette Toussaint,0685075798,Coach en méditation et en pleine conscience,coach méditation_pleine conscience
+823,Nath Grenier,0604046028,Artisan en maroquinerie,artisan maroquinerie
+824,Élodie Ferreira,0670986212,Guide de tourisme rural pour les fermes et les vignobles locaux,guide tourisme rural fermes vignobles locaux
+825,Michelle Delannoy,0681508183,Designer d'intérieur pour les petits appartements urbains,designer dintérieur petits appartements urbains
+826,Laurence Boulay,0607079110,Coach de développement de l'empathie,coach développement lempathie
+827,Jérôme Guillou,0632937755,Animateur de soirées de jeux de rôle,animateur soirées jeux rôle
+828,Sébastien de Marion,0615179311,Conseiller en nutrition pour les athlètes amateurs,conseiller nutrition athlètes amateur
+829,Robert Robert,0656228385,Créateur de bijoux pour hommes,créateur bijou hommes
+830,Paul Verdier,0615543950,Guide touristique pour les activités nautiques,guide touristique activités nautiques
+831,Valentine Guillaume,0688438720,Coach de communication orale pour les présentations professionnelles,coach communication orale présentations professionnelles
+832,Marthe Leroux,0691621216,Organisateur d'activités pour les enfants dans les parcs publics,organisateur dactivités enfants parcs public
+833,daisy Le Weiss,0662501468,Coach en gestion de l'anxiété pour les travailleurs indépendants,coach gestion lanxiété travailleurs indépendants
+834,Gabrielle Masson,0682693575,Professeur de musique pour les enfants en bas âge,professeur musique enfants ba âge
+835,Noémi de Alves,0680276942,Conseiller en marketing numérique pour les petites entreprises,conseiller marketing numérique petite entreprises
+836,Michelle Rodrigues,0675288920,Guide de tourisme pour les sites de tournage de films et de télévision,guide tourisme site tournage film télévision
+837,Alphonse Huet Le Lopes,0649094127,Coach de développement de la confiance en soi pour les adolescents,coach développement confiance_soi adolescent
+838,Marine Gerard,0613584235,Artisan en tissage de macramé,artisan tissage macramé
+839,Océane Prevost,0636605752,Vendeur de produits de beauté naturels faits maison,vendeur produits beauté_naturels faits maison
+840,Gilles Devaux de Bourdon,0610610650,Guide touristique pour les visites de distilleries locales,guide touristique visites distillery locale
+841,Timothée Arnaud,0622913733,Coach de développement des compétences de vie pour les personnes âgées,coach développement compétences vie personnes âgées
+842,Claudine Lecomte,0631439442,Professeur de dessin pour enfants en ligne,professeur dessin enfants ligne
+843,Agathe Munoz,0651309574,Créateur de costumes pour les événements cosplay,créateur costume événements cosplay
+844,David Lambert,0625573306,Organisateur de tours de bière pour les amateurs de bière,organisateur tour bière amateur bière
+845,Manon Potier,0696677389,Coach en gestion des émotions pour les parents,coach gestion émotions parent
+846,Renée Gonzalez,0692832099,Guide touristique pour les visites de jardins botaniques locaux.,guide touristique visites jardins botaniques locaux
+847,Zoé Merle-Vallee,0646494563,Créateur de contenus audiovisuels pour les marques,créateur contenus audiovisuels marque
+848,Sophie Texier,0697031812,Coach en développement de la créativité,coach développement créativité
+849,Daniel-Yves Rossi,0686060407,Guide touristique pour les visites d'attractions touristiques sous-marines,guide touristique visites dattractions touristiques sousmarines
+850,Thomas-Gérard Gregoire,0642051057,Livreur de courses à domicile pour les personnes à mobilité réduite,livreur course domicile personnes mobilité_réduite
+851,Gilbert Boyer,0671809967,Organisateur d'événements culturels pour les communautés locales,organisateur dévénements culturels communautés locale
+852,Stéphane Tessier,0609519471,Coach de développement personnel pour les nouveaux parents,coach développement personnel nouveaux_parent
+853,Inès Hardy-Bonneau,0634826875,Concepteur de jeux de société éducatifs pour enfants,concepteur jeux_société éducatifs enfants
+854,Vincent Le Paul,0697237401,Cours de bricolage en ligne,cours bricolage ligne
+855,Nicolas Masson,0610699900,Artisan en fabrication de savons et de produits de bain,artisan_fabrication savons produits bain
+856,Dorothée Georges,0631764242,Guide touristique pour les visites d'usines locales,guide touristique visites dusines locale
+857,Gilbert Paris,0686246651,Organisateur de tours gastronomiques pour les visiteurs étrangers,organisateur tour gastronomiques visiteurs étrangers
+858,Dominique Lamy,0609320295,Coach de développement de la confiance en soi pour les personnes en situation de handicap,coach développement confiance_soi personnes situation_handicap
+859,Geneviève Denis,0673733756,Photographe de mariage et d'événements,photographe mariage dévénements
+860,Thérèse Teixeira-Maillet,0631202369,Créateur de contenu de marketing d'influence,créateur contenu marketing dinfluence
+861,Claude de la Carpentier,0649328834,Professeur de langues étrangères en ligne,professeur langues_étrangères ligne
+862,Guillaume de Guillet,0686366935,Designer de vêtements sur mesure pour animaux de compagnie,designer vêtements mesure animaux_compagnie
+863,Maryse Rey,0628393799,Guide touristique pour les visites de fermes biologiques,guide touristique visites fermes biologiques
+864,Richard Blot,0656917093,Coach de développement des compétences en leadership pour les jeunes professionnels,coach développement compétences leadership jeunes professionnels
+865,Bernadette Humbert,0671864137,Enseignant de cours de maquillage en ligne,enseignant cours maquillage ligne
+866,Adèle-Élisabeth Gomes,0617346158,Créateur de contenu pour les podcasts éducatifs,créateur contenu podcasts éducatifs
+867,Noël Dias,0616632476,Organisateur de visites guidées de la ville en Segway,organisateur visites_guidées ville segway
+868,Martin Hardy,0670231982,Coach en développement de la résilience pour les personnes atteintes de maladies chroniques,coach développement résilience personnes atteintes malady_chroniques
+869,Suzanne Paris-Benoit,0653231054,Artisan en fabrication de meubles à partir de matériaux recyclés,artisan_fabrication meubles partir matériaux recyclés
+870,Michèle Maurice,0617394544,Guide touristique pour les visites de distilleries de whisky,guide touristique visites distillery whisky
+871,Margaud Valette,0617623706,Enseignant de cours de cuisine en ligne,enseignant cours cuisine ligne
+872,Chantal Thibault,0626744230,Créateur de contenus pour les sites Web d'artisanat,créateur contenus site web dartisanat
+873,Robert Masson,0689822632,Coach de développement de la gestion du stress pour les étudiants universitaires,coach développement gestion stress étudiants universitaires
+874,Jacqueline Pinto de la Pruvost,0664758914,Organisateur de visites guidées en VTT,organisateur visites_guidées vtt
+875,Jules de Wagner,0655624796,Conseiller en mode éthique et responsable,conseiller mode éthique responsable
+876,Paul de Pons,0695952524,Guide touristique pour les visites de sites de production de café local,guide touristique visites site production café local
+877,Nicolas Buisson,0648023414,Professeur de théâtre pour enfants,professeur théâtre enfants
+878,Frédéric Auger,0680453620,Enseignant de cours de photographie en ligne,enseignant cours photographie ligne
+879,Michel Cordier,0623669034,Créateur de contenus pour les blogs de cuisine,créateur contenus blog cuisine
+880,Thérèse Gerard de Faure,0665646912,Organisateur de visites guidées de la ville en hoverboard,organisateur visites_guidées ville hoverboard
+881,Théodore Hardy,0601486902,Coach de développement de la communication interculturelle pour les expatriés,coach développement communication interculturelle expatriés
+882,Diane Monnier,0647535482,Artisan en fabrication de produits de cuir recyclé,artisan_fabrication produits cuir recyclé
+883,Honoré Pruvost-Gauthier,0662542085,Guide touristique pour les visites de brasseries artisanales locales,guide touristique visites brasserie artisanales locale
+884,Josette Laurent,0699486040,Enseignant de cours de poterie en ligne,enseignant cours poterie ligne
+885,Tristan Turpin,0616983688,Créateur de contenus pour les vidéos éducatives,créateur contenus vidéos éducatives
+886,daisy Robin-Schneider,0666184427,Coach de développement de la résolution de conflits pour les couples,coach développement résolution conflits couple
+887,Henriette Boucher-Da Silva,0662789943,Organisateur de visites guidées de la ville en trottinette électrique,organisateur visites_guidées ville trottinette électrique
+888,Sophie Hamon,0696391491,Conseiller en développement durable pour les petites entreprises,conseiller développement durable petite entreprises
+889,Bernadette Lejeune,0643622374,Guide touristique pour les visites de sites historiques locaux,guide touristique visites site historiques locaux
+890,Élise Goncalves,0666048206,Enseignant de cours de yoga en ligne,enseignant cours yoga ligne
+891,Alphonse Begue,0646535182,Créateur de contenus pour les sites Web de jardinage,créateur contenus site web jardinage
+892,Hélène Guilbert,0600857435,Organisateur de visites guidées en canoë,organisateur visites_guidées canoë
+893,Théodore du Torres,0668065744,Coach de développement de la prise de décision pour les entrepreneurs,coach développement prise décision entrepreneur
+894,Gilles Meyer,0648964128,Artisan en fabrication de produits en bois naturel,artisan_fabrication produits bois naturel
+895,Céline Fischer,0602126194,Compagnie pour personnes âgées,compagnie personnes âgées
+896,Patrick-Gérard Didier,0646611790,Assistance aux tâches administratives,assistance tâches_administratives
+897,Thibault Barthelemy,0606378219,Livraison de courses,livraison course
+898,Léon Andre,0686504623, garde d'animaux,garde danimaux
+899,Bertrand de Fournier,0611252473, nettoyage de maison,nettoyage maison
+900,Philippe-Laurent Dupre,0694702098,Préparation de repas sains et équilibrés,préparation repas sains_équilibrés
+901,Édouard Bruneau,0602506320, l'organisation d'un déménagement,lorganisation dun déménagement
+902,Valérie de Cordier,0607917787,Assistance informatique à domicile,assistance informatique domicile
+903,David Bodin,0610602554, garde d'enfants,garde denfants
+904,Richard Pasquier de la Barre,0690103493,Réparation de petits appareils électroménagers,réparation petits appareils_électroménagers
+905,Inès Pierre,0669165305,Assistance pour les déplacements à l'extérieur de la maison,assistance déplacements lextérieur maison
+906,Gabriel Pruvost du Leveque,0615213969,Arrosage des plantes pendant les vacances,arrosage plantes pendant vacances
+907,Timothée Rousseau-Poirier,0676140762,Réception de colis à domicile,réception colis domicile
+908,Alfred Couturier,0637765178,Promenade de chiens,promenade_chiens
+909,Noël Coste,0685799550,Coiffure à domicile,coiffure domicile
+910,Thérèse Guyot,0617814460,Installation de systèmes de sécurité à domicile,installation systèmes sécurité domicile
+911,Suzanne Ruiz,0671245922,"Mise en place d'un régime alimentaire sain, je vous encourage à perdre du poids",mise_place dun régime alimentaire sain encourage perdre poids
+912,Denise Mary Le Denis,0669210541, garde de nuit pour les enfants,garde nuit enfants
+913,Claudine de Perret,0672672003,Maintenance de la piscine à domicile,maintenance piscine domicile
+914,Anastasie-Pénélope Dupont,0697671196,Assistance pour la vente de biens immobiliers,assistance vente biens immobiliers
+915,Agathe Bertrand,0613414817,Réparation de vélos,réparation vélos
+916,Hugues Gros-Coulon,0693958245,Accompagnement pour les rendez-vous médicaux,accompagnement rendezvous_médicaux
+917,Robert Dubois,0628218141,Entretien de l'espace vert à domicile,entretien lespace vert domicile
+918,Adrien Duval de la Pottier,0648831609,Nettoyage de voitures,nettoyage voitures
+919,Aimé Mace-Gautier,0679744745,Cours de cuisine à domicile,cours cuisine domicile
+920,Élise Torres,0663320655,Assistance pour l'organisation de soirées,assistance lorganisation soirées
+921,André Descamps,0665949618, garde pour personnes à mobilité réduite,garde personnes mobilité_réduite
+922,Guy Legros de Guillet,0617040020,Planification de voyages,planification voyage
+923,Thibault Aubry,0632912312,Assistance pour l'installation de nouveaux équipements électroniques,assistance linstallation nouveaux équipements électroniques
+924,Alexandre Teixeira,0612038271, garde de nuit pour les personnes âgées,garde nuit personnes âgées
+925,Bernard Guibert,0610619882,Garde de plantes d'intérieur pendant les vacances,garde plantes dintérieur pendant vacances
+926,Claire Pichon,0693991446, réparation de véhicules à domicile,réparation véhicules domicile
+927,Dorothée Blot-Thibault,0699069697,Gestion du budget : je suis à vos côtés dans la gestion de vos compte et la répartition de votre budget,gestion budget côtés gestion compte répartition budget
+928,Claire Mary,0643342090,"Réparation de petits travaux de plomberie, je suis très fort en bricolage… ",réparation petits travaux plomberie très fort bricolage
+929,Sébastien David Le Charrier,0655624724,Nettoyage de piscines à domicile,nettoyage piscines domicile
+930,Amélie Bourgeois,0663564990,Assistance pour l'organisation de fêtes d'anniversaire,assistance lorganisation fêtes_danniversaire
+931,Élise Boyer de Leroux,0627680386,Préparation de cocktails à domicile,préparation cocktail domicile
+932,Sébastien Brun,0695529613,Garde de bébés,garde bébés
+933,Philippe Payet,0612799724,Maintenance de climatisation à domicile,maintenance climatisation domicile
+934,Isabelle Marchand,0671504906,Assistance pour la planification de mariages,assistance planification mariages
+935,Sabine Jourdan,0613884454,Entretien de terrains de golf à domicile,entretien terrain golf domicile
+936,Margaux Perrier de la Neveu,0619377011,Réparation de petits travaux de menuiserie,réparation petits travaux menuiserie
+937,Susan Barbe,0644270491,Garde de reptiles et d'animaux exotiques,garde reptile_danimaux exotiques
+938,Rémy Leblanc Le Pires,0617246591,Rédaction de CV,rédaction_cv
+939,Théodore Simon,0670321606,Installation de luminaires à domicile,installation luminaires domicile
+940,Eugène de Michel,0636613376,Nettoyage de bateaux,nettoyage bateaux
+941,David Parent-Pires,0603710949,Cours d'anglais à domicile,cours danglais domicile
+942,Margaud Royer-Charpentier,0621613965,Assistance pour la planification d'événements corporatifs,assistance planification dévénements corporatifs
+943,Arthur Descamps-Courtois,0604864316,Garde d'enfants lors de soirées de fête,garde denfants lors soirées fête
+944,Odette Jean de la Bernard,0629964569,Maintenance de systèmes de chauffage et de climatisation à domicile,maintenance systèmes_chauffage climatisation domicile
+945,Victoire Lenoir,0670693518,Conduite pour personnes âgées,conduite personnes âgées
+946,Adrien-Patrick Didier,0638893941,Organisation de voyages sur mesure,organisation voyage mesure
+947,Alain-Denis Delattre,0643558738,Préparation de déjeuners d'affaires,préparation déjeuners daffaires
+948,Anne Le Rocher,0671999992,Garde de bijoux et objets précieux dans mon coffre fort ,garde bijou objets précieux coffre fort
+949,Xavier Legros,0669011748,"coach sportif à domicile, tous types de sport : cross-fit, danse, musculation",coach sportif domicile tous_type sport crossfit danse musculation
+950,Margaud Godard,0614417745,Garde de nuit pour animaux de compagnie,garde nuit animaux_compagnie
+951,Agnès Martinez,0617250414,"Réalisation de courses pour régimes spéciaux (végétarien, bio )",réalisation course régimes spéciaux végétarien bio
+952,Alain Laporte,0646474134,Accompagnement shopping personnalisé : toruver une tenue pour une soirée importante,accompagnement shopping personnalisé toruver tenue soirée importante
+953,Odette-Margot Masson,0692288330,Coiffure et maquillage à domicile pour événements spéciaux,coiffure maquillage domicile événements spéciaux
+954,André-Thibaut Weber,0632528200,Assistance pour le choix de cadeaux,assistance choix cadeaux
+955,Zoé Ribeiro,0644090174,Réalisation de recettes personnalisées,réalisation recettes personnalisées
+956,Maurice Leclerc,0680768954,Garde-malade pour enfants,gardemalade enfants
+957,Claudine Hamon,0632053019,Entretien de plantes exotiques,entretien plantes exotiques
+958,Michelle Delattre,0690414360,Assistance à la rédaction de discours,assistance rédaction discours
+959,Véronique Pruvost,0653970619,Préparation de paniers repas équilibrés,préparation paniers repas équilibrés
+960,Édouard Ferrand,0622362986,Garde de reptiles et d'animaux sauvages,garde reptile_danimaux sauvages
+961,Astrid Colin,0689396491,Entretien de cheminées,entretien cheminées
+962,Paul Vincent,0612576448,Garde de voitures de collection,garde voitures collection
+963,Robert Maury,0656997186,Organisation de voyages à moto,organisation voyage moto
+964,Vincent-Richard Chretien,0653175010,Accompagnement pour la pratique de sports extrêmes,accompagnement pratique sport extrêmes
+965,Amélie Dijoux,0690902547,Décoration d'intérieur,décoration dintérieur
+966,Alice Schneider,0609660388, conciergerie pour les professionnels,conciergerie professionnels
+967,Grégoire Texier,0639039524,Garde de chevaux : j'ai des années d'expérience dans l'équitation et je peux prendre soin de vos animaux à quatre pattes.,garde chevaux jai années dexpérience léquitation peux prendre_soin animaux quatre pattes
+968,Jacqueline Joseph Le Ferreira,0642096197,Garde d'enfants à l'occasion de mariages,garde denfants loccasion mariages
+969,Constance de Lebon,0626800159,Assistance à la préparation de cocktails originaux,assistance préparation cocktail originaux
+970,Joséphine Mallet,0628905189,Cours de yoga et de méditation à domicile,cours yoga méditation domicile
+971,Clémence Lefort,0689396841,Garde de plantes carnivores,garde plantes carnivore
+972,Nathalie Roy,0669818585,Assistance pour la rédaction de lettres et courriers administratifs,assistance rédaction lettres courriers_administratifs
+973,Zacharie Fernandes,0664604765,Garde d'animaux aquatiques,garde danimaux aquatiques
+974,Thibault Leclercq,0667262662," photographe personnel, visagiste pour vous mettre en valeur",photographe personnel visagiste mettre valeur
+975,Jérôme Mathieu,0671232447,Accompagnement pour la pratique du golf,accompagnement pratique golf
+976,Catherine Alexandre,0671619272,Garde d'enfants lors de voyages d'affaires,garde denfants lors voyage daffaires
+977,Vincent De Sousa,0665531337,Garde de voitures de luxe,garde voitures luxe
+978,Émilie-Jeannine Auger,0674032826,Organisation de fêtes sur le thème des super-héros,organisation fêtes thème superhéros
+979,Christiane-Lucie Perrot,0639101277,Préparation de plats pour régimes spécifiques,préparation plat_régimes spécifiques
+980,Robert Berger,0678395374,Cours de musique à domicile,cours musique domicile
+981,Alex Marchal,0632239426,Garde d'animaux de la ferme,garde danimaux ferme
+982,Suzanne-Pauline Giraud,0605346020,Assistance pour la réalisation de vidéos personnelles,assistance réalisation vidéos personnelles
+983,Rémy Lecomte de la Schmitt,0661439151,Garde de chatons,garde chatons
+984,Alain Briand,0678625261,Accompagnement pour la pratique de la plongée sous-marine,accompagnement pratique plongée sousmarine
+985,Benoît Etienne,0650438953,Garde d'enfants pour les soirées cinéma,garde denfants soirées cinéma
+986,Sophie Diallo,0647478699,Garde de caravanes et camping-cars,garde caravanes campingcars
+987,Lucas Delmas,0692892759,Organisation de week-ends à thème,organisation weekend thème
+988,Frédérique Duhamel,0616962005,Réalisation de masques de beauté personnalisés,réalisation masque beauté personnalisés
+989,Richard Normand-Maillet,0611165005,Garde d'oiseaux exotiques,garde doiseaux exotiques
+990,Anaïs Robin,0604149481,Garde de lapins et de cobayes,garde lapin cobayes
+991,Anouk Delorme,0646174273,Garde de bateaux de plaisance,garde bateaux plaisance
+992,Martin Bouchet,0691007059,Organisation de voyages culinaires,organisation voyage culinaires
+993,Maggie Da Costa,0647847008,Garde de plantes en suspension,garde plantes suspension
+994,Valérie Hamel-Prevost,0644122717,Assistance pour la création de blogs et de sites web,assistance création blog site web
+995,Charlotte de Techer,0621012840,Testeur de chocolat,testeur chocolat
+996,Zacharie Lecoq,0626130370,Évaluateur de bars et de clubs,évaluateur bar club
+997,Raymond de la Dijoux,0643380880,Expert en dégustation de vins,expert dégustation vins
+998,Henriette Lenoir,0646252501,Créateur de noms d'entreprise et de produits,créateur noms dentreprise produits
+999,Marianne Seguin,0681334631,J'offre mes services pour l'entretien de votre jardin.,joffre service lentretien jardin
+1000,Étienne Mahe,0608426291,Besoin d'un coup de main pour votre jardin ? Je suis là pour vous  .,besoin dun coup main jardin là
+1001,Yves Le Boutin,0641640900,Je suis un jardinier passionné et je propose mes services pour l'entretien de votre jardin.,jardinier passionné propose service lentretien jardin
+1002,Adélaïde Lebreton,0694196749,"Je suis disponible pour tondre votre pelouse, tailler vos arbustes et entretenir vos plantes.",disponible tondre pelouse tailler arbustes entretenir plantes
+1003,Constance Sauvage,0612143150,Confiez-moi l'entretien de votre jardin et profitez d'un espace extérieur impeccable.,confiezmoi lentretien jardin profitez dun espace extérieur impeccable
+1004,David Labbe de la Lamy,0625897321,Je suis équipé pour prendre soin de tous types de plantes et arbustes.,équipé prendre_soin tous_type plantes arbustes
+1005,Manon Bertin,0646107540,Je suis un passionné de la nature et je prendrai soin de votre jardin comme s'il était le mien.,passionné nature prendrai soin jardin comme sil mien
+1006,Christelle Dubois,0692934744,J'offre des services d'entretien de pelouse pour un gazon parfait.,joffre service dentretien pelouse gazon parfait
+1007,Agathe Durand,0621980142,"Je suis compétent pour réaliser des travaux de tonte, d'aération et de scarification.",compétent réaliser travaux tonte daération scarification
+1008,René Renault,0657435222,Je suis disponible pour intervenir régulièrement ou occasionnellement selon vos besoins.,disponible intervenir régulièrement occasionnellement selon besoins
+1009,Margot Martin,0696854781,J'offre mes services pour planter de nouvelles fleurs ou arbustes dans votre jardin.,joffre service planter nouvelles fleurs arbustes jardin
+1010,Gilles Laurent,0622580729,Je peux vous conseiller sur les plantes les plus adaptées à votre jardin.,peux conseiller plantes plus adaptées jardin
+1011,Alfred de Ferrand,0634565208,J'offre des  désherbage pour un jardin propre et net.,joffre désherbage jardin propre net
+1012,Claude Collet,0665560472,Je peux également tailler vos haies et vos buissons pour leur donner une forme esthétique.,peux également tailler hay buissons donner forme esthétique
+1013,Alain Jacques,0633869410,Je suis équipé pour entretenir vos arbres fruitiers et assurer une bonne récolte.,équipé entretenir arbres fruitiers assurer bonne récolte
+1014,Marguerite Delaunay,0658105203,J'offre des  nettoyage pour enlever les feuilles mortes et les débris de votre jardin.,joffre nettoyage enlever feuilles mortes débris jardin
+1015,Susan Pasquier,0617166326,Je peux également créer un potager dans votre jardin pour des légumes frais et savoureux.,peux également créer potager jardin légumes frais savoureux
+1016,Henri Barbe de Etienne,0688780010,Je suis disponible pour réaliser des petits travaux de bricolage pour améliorer votre jardin.,disponible réaliser petits travaux bricolage améliorer jardin
+1017,Claude-Claudine Marion,0620829052,J'offre des  pose de clôtures et de portails pour protéger votre jardin.,joffre pose clôtures portails protéger jardin
+1018,Hugues Michaud,0666520749,Je peux également installer des éclairages pour illuminer votre jardin la nuit.,peux également_installer éclairages illuminer jardin nuit
+1019,Vincent Bouchet,0627704241,Je suis compétent pour réaliser des travaux de terrassement et de nivellement.,compétent réaliser travaux terrassement nivellement
+1020,Franck Bouvier,0697420909,J'offre des services d'arrosage pour prendre soin de vos plantes pendant votre absence.,joffre service darrosage prendre_soin plantes pendant absence
+1021,Philippe Pons,0608969041,Je peux également installer un système d'irrigation pour un arrosage automatique.,peux également_installer système dirrigation arrosage automatique
+1022,Maurice Henry,0629964355,Je suis disponible pour réaliser des petits travaux de maçonnerie pour améliorer votre jardin.,disponible réaliser petits travaux maçonnerie améliorer jardin
+1023,Eugène Etienne-Schmitt,0655253888,J'offre des  réparation pour les équipements de jardin tels que les tondeuses ou les souffleurs.,joffre réparation équipements jardin tels tondeuses souffleurs
+1024,Bertrand Le Gall,0638299498,Je suis équipé pour réaliser des travaux de nettoyage de terrasses et de patios.,équipé réaliser travaux nettoyage terrasses patio
+1025,Lucie-Nathalie Begue,0681942409,J'offre des  décoration pour embellir votre jardin avec des ornements et des sculptures.,joffre décoration embellir jardin ornements sculpture
+1026,Hugues Giraud Le Dijoux,0635696317,Je peux également créer un espace de détente dans votre jardin avec un hamac ou une balancelle.,peux également créer espace détente jardin hamac balancelle
+1027,Arthur Becker,0600390269,Je suis disponible pour réaliser des petits travaux de menuiserie pour améliorer votre jardin.,disponible réaliser petits travaux menuiserie améliorer jardin
+1028,Dominique-Anastasie Collin,0637402962,J'offre des  nettoyage pour enlever les moisissures et les taches de votre mobilier de jardin.,joffre nettoyage enlever moisissures tach mobilier jardin
+1029,Vincent Marin de la Thibault,0687465909,Je suis compétent pour réaliser des travaux de réparation,compétent réaliser travaux réparation
+1030,Rémy Dupuis Le Chretien,0681527226,Je propose mes services pour l'installation de jardinières ou de pots de fleurs.,propose service linstallation jardinières pot fleurs
+1031,Gabriel Huet du Texier,0642731393,Je suis disponible pour entretenir votre jardin tout au long de l'année.,disponible entretenir jardin tout long lannée
+1032,Roger Pierre,0600101046,J'offre des  décoration saisonnière pour embellir votre jardin.,joffre décoration saisonnière embellir jardin
+1033,Anne Meunier,0625537998,Je suis compétent pour réaliser des travaux de construction de murs de soutènement.,compétent réaliser travaux construction murs soutènement
+1034,Adrienne Blot,0617176299,J'offre des services d'installation de fontaines et de cascades pour ajouter une touche de fraîcheur à votre jardin.,joffre service dinstallation fontaines cascade ajouter touche fraîcheur jardin
+1035,Alphonse Allain-Pruvost,0638479924,Je suis équipé pour réaliser des travaux de nettoyage de bassins et de piscines naturelles.,équipé réaliser travaux nettoyage bassins piscines naturelles
+1036,Margot Salmon-Hernandez,0687522704,J'offre des  création de chemins et d'allées dans votre jardin.,joffre création chemins dallées jardin
+1037,Rémy Fleury-Pottier,0642820741,Je peux également installer des abris pour protéger vos plantes en hiver.,peux également_installer abris protéger plantes hiver
+1038,Marcel Legendre,0694185536,Je suis disponible pour réaliser des petits travaux de peinture pour embellir votre mobilier de jardin.,disponible réaliser petits travaux peinture embellir mobilier jardin
+1039,Isaac Bousquet,0637372264,J'offre des  nettoyage de toitures et de garages,joffre nettoyage toitures garage
+1040,Frédéric Valentin,0675774925,"Je propose des cours particuliers dans les matières suivantes : mathématiques, physique, chimie et biologie.",propose cours particuliers matières suivantes mathématiques physique chimie biologie
+1041,Nath Garnier,0632274028,"Si vous cherchez un tuteur compétent pour   votre enfant à réussir, vous êtes au bon endroit !",si cherchez tuteur compétent enfant réussir bon_endroit
+1042,Christelle Lebon,0651510821,"Mes cours sont adaptés à tous les niveaux, de l'école primaire jusqu'au lycée.",cours adaptés tous_niveaux lécole primaire jusquau lycée
+1043,Vincent-Noël Marty,0666289300,J'ai une grande expérience en tant que tuteur et je suis capable d'  votre enfant à atteindre ses objectifs scolaires.,jai_grande expérience_tant tuteur capable enfant atteindre_objectifs scolaires
+1044,Bertrand Devaux,0651408245,"Mes cours sont disponibles en personne ou en ligne, selon vos préférences.",cours disponibles personne ligne selon_préférences
+1045,Gérard Julien,0677839239,"Si votre enfant doit améliorer ses résultats scolaires, contactez moi' .",si enfant doit améliorer_résultats scolaires contactez
+1046,Noël Imbert,0696876367,J'offre des cours personnalisés pour   les élèves à surmonter les difficultés spécifiques qu'ils rencontrent dans leurs études.,joffre cours personnalisés élèves surmonter difficultés spécifiques quils_rencontrent leurs_études
+1047,Vincent Collet,0648423245,Mes cours sont conçus pour   les élèves à acquérir les compétences dont ils ont besoin pour réussir dans leurs études.,cours conçus élèves acquérir compétences dont besoin réussir leurs_études
+1048,Roland du Lemaire,0658275496,Je suis un tuteur passionné qui se consacre à   les élèves à réaliser leur potentiel.,tuteur passionné consacre élèves réaliser potentiel
+1049,Nicolas Masse,0675765918,Je peux   votre enfant à améliorer ses résultats scolaires en travaillant avec lui sur des exercices pratiques et des exemples concrets.,peux enfant améliorer_résultats scolaires travaillant exercices pratiques exemples concrets
+1050,Théophile Hoarau de la Legrand,0637637359,Mes cours sont adaptés à chaque élève et sont conçus pour répondre à leurs besoins spécifiques.,cours adaptés chaque_élève conçus répondre leurs besoins spécifiques
+1051,Gérard Le Riou,0614017155,"Si vous cherchez un tuteur compétent et fiable pour   votre enfant, vous êtes au bon endroit.",si cherchez tuteur compétent fiable enfant bon_endroit
+1052,Joséphine-Geneviève Thibault,0691152345,J'ai une expérience de plusieurs années en tant que tuteur et j'ai accompagné de nombreux élèves pour atteindre leurs objectifs scolaires.,jai expérience plusieurs années tant_tuteur jai accompagné nombreux élèves atteindre leurs objectifs scolaires
+1053,Alexandre Deschamps,0679923043,Je suis un tuteur patient et dévoué qui se consacre aux élèves et à réussir.,tuteur patient dévoué consacre élèves réussir
+1054,Mathilde Pierre,0696903084,Mes cours sont conçus les élèves : développer leur confiance en eux et à prendre plaisir à apprendre.,cours conçus élèves développer confiance prendre plaisir apprendre
+1055,Michelle Regnier,0639608703,Je suis un tuteur qui peut mener votre enfant à la réussite.,tuteur peut mener enfant réussite
+1056,Victor Lambert de la Mallet,0695230448,Je suis un tuteur expérimenté qui peut   les élèves à se concentrer et à réussir dans leurs études.,tuteur expérimenté peut élèves concentrer réussir leurs_études
+1057,Amélie Vallet Le Benoit,0612170496,Mes cours sont adaptés aux besoins spécifiques de chaque élève: devoirs ou préparation aux examens.,cours adaptés besoins spécifiques chaque_élève devoir préparation_examen
+1058,Julien Baudry,0653521871,Si votre enfant a besoin de soutien à l'école.,si enfant a_besoin soutien lécole
+1059,Jérôme Delannoy,0683387734,J'ai une grande expérience en tant que tuteur et je suis en mesure d'  les élèves à atteindre leurs objectifs scolaires.,jai_grande expérience_tant tuteur mesure élèves atteindre leurs objectifs scolaires
+1060,Capucine-Bernadette Regnier,0654724438,Mes cours sont conçus pour   les élèves à comprendre les concepts clés et à appliquer leurs connaissances de manière efficace.,cours conçus élèves comprendre concept clés appliquer leurs connaissances manière_efficace
+1061,Charlotte Laurent,0694360349,"Si vous cherchez un tuteur compétent pour   votre enfant à réussir, n'hésitez pas à me contacter.",si cherchez tuteur compétent enfant réussir nhésitez_contacter
+1062,Maryse Germain,0681973778,J'offre des cours personnalisés qui peuvent   les élèves à surmonter les obstacles qu'ils rencontrent dans leurs études.,joffre cours personnalisés peuvent élèves surmonter obstacle quils_rencontrent leurs_études
+1063,Aimé Aubry,0626668114,"Mes cours sont adaptés à tous les niveaux, des débutants aux étudiants avancés.",cours adaptés tous_niveaux débutants étudiants avancés
+1064,Nathalie Riou,0657033534,"Si vous avez des difficultés dans une matière scolaire ou universitaire, je peux vous faire progresser.",si difficultés matière scolaire universitaire peux faire progresser
+1065,Auguste Gimenez,0608208383,Je propose des cours particuliers adaptés à votre niveau et à vos besoins spécifiques.,propose cours particuliers adaptés niveau besoins spécifiques
+1066,Martine-Aurélie Vidal,0681877107,"Si vous cherchez un enseignant qualifié et expérimenté pour vous réussir, je suis à votre disposition.",si cherchez enseignant qualifié_expérimenté réussir disposition
+1067,Céline Delorme de la Philippe,0689278055,Je peux vous accompagner dans votre apprentissage et vous fournir des conseils et des astuces pour réussir.,peux accompagner apprentissage fournir conseils astuces réussir
+1068,Jeannine Foucher,0672004618,"Si vous souhaitez améliorer vos résultats scolaires ou universitaires, je suis là pour vous   à atteindre vos objectifs.",si souhaitez améliorer_résultats scolaires universitaires là atteindre_objectifs
+1069,Sébastien-Jérôme Boulay,0639204416,Je suis passionné par l'enseignement et j'ai une grande expérience .,passionné lenseignement jai_grande expérience
+1070,Anne du Delorme,0626591658,"Si vous êtes à la recherche d'un enseignant patient, compétent et pédagogue, n'hésitez pas à me contacter.",si recherche dun enseignant patient compétent pédagogue_nhésitez contacter
+1071,Hugues de la Clerc,0685070479,"Je suis là pour vous   à maîtriser les notions difficiles de votre programme scolaire ou universitaire, à votre rythme.",là maîtriser notion difficiles programme scolaire universitaire rythme
+1072,Marcel Ferrand,0696222548,"Si vous avez besoin d'un soutien personnalisé pour réussir vos examens ou pour combler vos lacunes, je suis là pour vous  .",si besoin dun soutien personnalisé réussir examen combler lacunes là
+1073,Noël Carlier,0638224816,Je suis spécialisé dans l'accompagnement des élèves et des étudiants en difficulté et je peux vous   à progresser rapidement.,spécialisé laccompagnement élèves étudiants difficulté peux progresser rapidement
+1074,Jérôme Pichon du Hardy,0663429910,"Si vous cherchez quelqu'un pour faire votre ménage, je peux m'en occuper pour vous.",si cherchez quelquun faire ménage peux men occuper
+1075,Édith Rodrigues,0682017789,Je propose des  nettoyage de qualité pour vous   à garder votre maison propre et bien rangée.,propose nettoyage qualité garder maison propre_bien rangée
+1076,Christelle Diallo,0637768504,"Si vous n'avez pas le temps ou l'énergie de faire le ménage, je suis là pour vous soulager de cette tâche.",si navez temp lénergie faire ménage là soulager cette tâche
+1077,François-Adrien Morvan,0691938266,Je suis spécialisé dans le nettoyage en profondeur de tous types de surfaces et de pièces.,spécialisé nettoyage profondeur tous_type surface pièces
+1078,Martin Martinez,0604096410,"Si vous cherchez une personne de confiance pour s'occuper de votre ménage, je suis là pour vous  .",si cherchez personne confiance soccuper ménage là
+1079,Philippe de Mahe,0665274419,"Je suis disponible pour faire le ménage chez vous, à votre convenance et selon vos besoins.",disponible faire ménage chez convenance selon besoins
+1080,Camille Garcia,0601743704,"Si vous souhaitez rentrer chez vous dans une maison propre et bien rangée, je peux m'occuper du ménage pour vous.",si souhaitez rentrer chez maison propre_bien rangée peux moccuper ménage
+1081,Honoré Nguyen Le Lombard,0621049439,"Je suis minutieux et rigoureux dans mon travail de nettoyage, pour garantir un résultat impeccable.",minutieux_rigoureux travail nettoyage garantir résultat impeccable
+1082,Christelle Le Moreau,0646297300,"Si vous avez besoin d'un  nettoyage régulier ou ponctuel, n'hésitez pas à me contacter.",si besoin dun nettoyage régulier ponctuel nhésitez_contacter
+1083,Jeannine de la Pierre,0661191239,"Je suis compétent dans toutes les tâches de ménage, du nettoyage des sols à la poussière et au repassage.",compétent toutes tâches ménage nettoyage sol poussière repassage
+1084,Benjamin Sauvage,0659943117,"Si vous êtes passionné de musique et que vous voulez apprendre à jouer d'un instrument, je peux vous   à atteindre votre objectif.",si passionné musique voulez apprendre jouer dun_instrument peux atteindre objectif
+1085,Michel Monnier-Launay,0685344530,Je suis un musicien expérimenté et je propose des cours particuliers de musique adaptés à tous les niveaux.,musicien expérimenté propose cours particuliers musique adaptés tous_niveaux
+1086,Inès Royer,0631402358,"Si vous cherchez un professeur de musique compétent et passionné pour vous guider dans votre apprentissage, je suis là pour vous  .",si cherchez professeur musique compétent passionné guider apprentissage là
+1087,Jules Richard,0639740922,"Je suis spécialisé dans l'enseignement de la musique, de la théorie musicale à la pratique d'un instrument.",spécialisé lenseignement musique théorie musicale pratique dun_instrument
+1088,Frédéric David,0674054667,"Si vous voulez découvrir le monde de la musique ou perfectionner votre technique, je peux vous proposer des cours sur mesure pour répondre à vos besoins.",si voulez découvrir monde musique perfectionner technique peux proposer cours mesure répondre besoins
+1089,Lorraine de Robert,0678891731,"Je suis disponible pour donner des cours de musique chez vous ou dans mon studio, selon vos préférences.",disponible donner cours musique chez studio selon_préférences
+1090,Benoît Moulin,0653488021,"Si vous cherchez à améliorer votre jeu d'un instrument ou votre compréhension de la musique, je suis là pour vous   à progresser.",si cherchez améliorer jeu dun_instrument compréhension musique là progresser
+1091,Jérôme Bailly,0654398715,Je suis passionné par l'enseignement de la musique et j'ai une grande expérience avec les élèves pour les faire avancer.,passionné lenseignement musique jai_grande expérience élèves faire avancer
+1092,Thibaut Ramos de Toussaint,0662306392,"Si vous êtes à la recherche d'un professeur de musique compétent, patient et pédagogue, n'hésitez pas à me contacter.",si recherche dun professeur musique compétent patient pédagogue_nhésitez contacter
+1093,Jeannine Allard de Courtois,0637750023,Je propose des cours de musique interactifs et ludiques pour vous permettre de développer votre créativité et votre sensibilité musicale.,propose cours musique interactifs ludiques permettre développer créativité sensibilité musicale
+1094,Hugues de la Vidal,0618536102,"Si vous cherchez des pièces uniques et personnalisées, je peux créer des objets d'artisanat sur mesure pour vous.",si cherchez pièces_uniques personnalisées peux créer objets dartisanat mesure
+1095,Margaux Colin,0661983699,"Je suis un artisan passionné et je propose des créations artisanales de qualité supérieure, conçues avec soin et précision.",artisan passionné propose créations artisanales qualité_supérieure conçues soin précision
+1096,Timothée Carpentier-Ferreira,0651936166,"Si vous souhaitez offrir un cadeau unique ou décorer votre intérieur avec des pièces originales, je peux créer des objets artisanaux pour répondre à vos besoins.",si souhaitez offrir cadeau unique décorer intérieur pièces originales peux créer objets_artisanaux répondre besoins
+1097,Luc de la Poirier,0632485135,"Je suis spécialisé dans la création d'objets artisanaux en bois, en tissu, en verre et en métal.",spécialisé création dobjets artisanaux bois tissu verre métal
+1098,Joseph Gomes,0668334232,"Si vous avez une idée en tête ou un projet spécifique, je peux vous   à le réaliser avec mes compétences artisanales.",si idée tête projet spécifique peux réaliser compétences artisanales
+1099,Augustin-Alfred Roche,0691677023,Je suis disponible pour réaliser des commandes sur mesure selon vos envies et vos besoins spécifiques.,disponible réaliser commandes mesure selon envy besoins spécifiques
+1100,Arthur Lemoine,0655947736,"Si vous cherchez des objets artisanaux de qualité supérieure pour votre maison ou pour offrir, je suis là pour vous  .",si cherchez objets_artisanaux qualité_supérieure maison offrir là
+1101,Adrien Richard,0688832868,"Je suis un artisan minutieux et rigoureux, et je m'assure que chaque pièce que je crée est unique et de qualité irréprochable.",artisan minutieux_rigoureux massure chaque pièce crée unique qualité irréprochable
+1102,Nicole Thibault Le Ribeiro,0658976144,"Si vous cherchez des objets artisanaux uniques, faits à la main avec des matériaux de qualité, n'hésitez pas à me contacter.",si cherchez objets_artisanaux uniques faits_main matériaux qualité nhésitez_contacter
+1103,Margaud du Leroux,0682566368,Je suis passionné par l'artisanat et je serais heureux de créer pour vous des pièces uniques et de qualité supérieure qui répondent à vos attentes.,passionné lartisanat heureux créer pièces_uniques qualité_supérieure répondent attentes
+1104,Olivier Loiseau,0631350446,"Si vous avez besoin de gérer vos tâches administratives et vous concentrer sur votre activité principale, je peux vous proposer mes services professionnels d'assistance administrative.",si besoin gérer tâches_administratives concentrer_activité principale peux proposer service professionnels dassistance administrative
+1105,Manon Chretien,0690860765,"Je suis un assistant administratif qualifié et expérimenté, capable de vous   dans toutes vos tâches administratives.",assistant_administratif qualifié_expérimenté capable toutes tâches_administratives
+1106,Suzanne Maillard-Courtois,0665095778,"Si vous êtes débordé par les tâches administratives de votre entreprise, je suis là pour vous offrir une assistance administrative efficace et professionnelle.",si débordé tâches_administratives entreprise là offrir_assistance administrative efficace professionnelle
+1107,Jeannine-Constance Guillet,0607198242,"Je suis spécialisé dans l'administration et la gestion de documents et de données, et je peux vous   à organiser votre entreprise de manière efficace et rentable.",spécialisé ladministration gestion document données peux organiser entreprise manière_efficace rentable
+1108,Paul Labbe,0661650820,"Si vous cherchez un assistant administratif compétent pour gérer vos tâches administratives, je suis là pour vous  .",si cherchez assistant_administratif compétent gérer tâches_administratives là
+1109,Monique Gros de Poulain,0684271331,"Je suis disponible pour gérer vos appels, vos e-mails, vos factures et vos documents, pour que vous puissiez vous concentrer sur votre activité principale.",disponible gérer appels email factures document puissiez concentrer_activité principale
+1110,Laurent Chauvin,0636850230,"Si vous cherchez à externaliser vos tâches administratives pour gagner en efficacité et en productivité, je suis là pour vous  .",si cherchez externaliser tâches_administratives gagner efficacité productivité là
+1111,Agathe Traore,0664549352,"Je suis un professionnel de l'administration et de la gestion, capable de répondre à tous vos besoins administratifs de manière rapide et efficace.",professionnel ladministration gestion capable répondre tous besoins administratifs manière rapide efficace
+1112,Marianne Bazin,0657342619,"Si vous cherchez une assistance administrative professionnelle pour votre entreprise, n'hésitez pas à me contacter pour en savoir plus sur mes services.",si cherchez assistance administrative professionnelle entreprise nhésitez_contacter savoir_plus service
+1113,Claudine Tessier,0672524252,"Je suis passionné par l'administration et la gestion, et je serais heureux de vous   à développer votre entreprise en prenant en charge vos tâches administratives.",passionné ladministration gestion heureux développer entreprise prenant charge tâches_administratives
+1114,Gilbert Lejeune,0664451558,"Si vous avez besoin d'une personne à domicile pour vous ou un membre de votre famille, je suis là pour vous offrir des services personnalisés et adaptés à vos besoins.",si besoin dune personne domicile membre_famille là offrir service personnalisés adaptés besoins
+1115,Éric Muller Le Dijoux,0628004859,"Je suis un professionnel de l'accompagnement à la personne à domicile, capable de vous fournir une assistance personnalisée et de qualité supérieure.",professionnel laccompagnement personne domicile capable fournir assistance personnalisée qualité_supérieure
+1116,Capucine de Aubry,0637110535,"Si vous cherchez une gardienne pour vous accompagner dans votre quotidien, je suis là pour vous offrir mes services professionnels.",si cherchez gardienne accompagner_quotidien là offrir service professionnels
+1117,Matthieu Bazin,0657513330,"Je suis spécialisé dans l'aide à la personne à domicile, et je peux vous   dans les tâches quotidiennes telles que les repas, les courses, le ménage et les soins personnels.",spécialisé laide personne domicile peux tâches quotidiennes_telles repas course ménage soins personnel
+1118,Isabelle Maurice,0632195789,"Si vous cherchez une personne à domicile pour un membre de votre famille qui a besoin de soins spécifiques, je peux vous offrir une assistance adaptée à ses besoins.",si cherchez personne domicile membre_famille a_besoin soins spécifiques peux offrir_assistance adaptée besoins
+1119,Geneviève Auger,0637486530,"Je suis disponible pour fournir une aide à domicile à temps plein ou à temps partiel, selon vos besoins spécifiques.",disponible fournir aide domicile temp plein temp partiel selon besoins spécifiques
+1120,Bernard Marty,0605501885,"Si vous cherchez une aide à domicile qui soit à l'écoute de vos besoins et de vos attentes, je suis là pour vous offrir mes services professionnels et personnalisés.",si cherchez aide domicile lécoute besoins attentes là offrir service professionnels personnalisés
+1121,Noël Dos Santos,0602557417,"Je suis un professionnel expérimenté et fiable, et je m'engage à vous offrir une assistance de qualité supérieure.",professionnel expérimenté fiable mengage offrir_assistance qualité_supérieure
+1122,Juliette Goncalves-Bailly,0631700795,"Si vous cherchez un professionnel à domicile pour vous ou un membre de votre famille, n'hésitez pas à me contacter pour en savoir plus sur mes services personnalisés.",si cherchez professionnel domicile membre_famille nhésitez_contacter savoir_plus service personnalisés
+1123,Théodore Camus-Klein,0666661735,Je suis passionné par l'humain et je serais heureux de vous accompagner dans votre quotidien pour vous offrir une assistance de qualité et adaptée à vos besoins.,passionné lhumain heureux accompagner_quotidien offrir_assistance qualité adaptée besoins
+1124,Didier Dechan,0654689021,Développement de méthodes de Machine Learning,développement méthodes machine learning
+1125,Louisa Camadini,0646674880,Effectuer vos projets de NLP,effectuer projets nlp
+1126,Pierre Colombo,06XXXXXXXX,Professeur de NLP,professeur nlp
