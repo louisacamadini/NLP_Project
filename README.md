@@ -1,4 +1,4 @@
 # NLP_Project
 Repository for the NLP course project at ENSAE.
 
-Topic : Text Similarity Techniques for Services Categorization and Search
+Topic : Automatic Evaluation Metrics for Enhancing the Quality of Automatic Story Generation in NLP
